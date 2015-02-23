@@ -1,0 +1,170 @@
+{
+"name": "flare",
+ "children": [
+{
+"name": "R",
+"children": [
+{"name":" hy79 ",  "size":  2 },
+{"name":" jas64 ",  "size":  12 },
+{"name":" jnm9 ",  "size":  741 },
+{"name":" ki47 ",  "size":  104 },
+{"name":" sm213 ",  "size":  138 },
+{"name":" tjh20 ",  "size":  837 },
+{}]
+},
+{
+"name": "java",
+"children": [
+{"name":" at55 ",  "size":  64 },
+{"name":" dd69 ",  "size":  10 },
+{"name":" pp170 ",  "size":  10 },
+{"name":" sg66 ",  "size":  859 },
+{"name":" sm213 ",  "size":  34 },
+{"name":" srd4 ",  "size":  54 },
+{}]
+},
+{
+"name": "MATLAB",
+"children": [
+{"name":" gi16 ",  "size":  1 },
+{"name":" ji25 ",  "size":  131 },
+{"name":" kih1 ",  "size":  268 },
+{"name":" mf203 ",  "size":  65 },
+{"name":" sa276 ",  "size":  13 },
+{"name":" sh269 ",  "size":  2 },
+{}]
+},
+{
+"name": "relion_refine_m",
+"children": [
+{"name":" bl81 ",  "size":  254 },
+{}]
+},
+{
+"name": "step2",
+"children": [
+{"name":" kmn7 ",  "size":  50 },
+{}]
+},
+{
+"name": "mdrun",
+"children": [
+{"name":" aks33 ",  "size":  24 },
+{}]
+},
+{
+"name": "kalign",
+"children": [
+{"name":" sm213 ",  "size":  20 },
+{}]
+},
+{
+"name": "smartpca",
+"children": [
+{"name":" kjg15 ",  "size":  17 },
+{}]
+},
+{
+"name": "cuffdiff",
+"children": [
+{"name":" ft42 ",  "size":  11 },
+{}]
+},
+{
+"name": "STAR",
+"children": [
+{"name":" ccb15 ",  "size":  6 },
+{}]
+},
+{
+"name": "plink",
+"children": [
+{"name":" kjg15 ",  "size":  6 },
+{}]
+},
+{
+"name": "macs2",
+"children": [
+{"name":" el116 ",  "size":  6 },
+{}]
+},
+{
+"name": "perl",
+"children": [
+{"name":" sm213 ",  "size":  5 },
+{}]
+},
+{
+"name": "stdp",
+"children": [
+{"name":" tm150 ",  "size":  4 },
+{}]
+},
+{
+"name": "visitors",
+"children": [
+{"name":" orchestr ",  "size":  3 },
+{}]
+},
+{
+"name": "rnnlib",
+"children": [
+{"name":" ma257 ",  "size":  2 },
+{}]
+},
+{
+"name": "meme.bin",
+"children": [
+{"name":" ik79 ",  "size":  2 },
+{}]
+},
+{
+"name": "gtf_to_fasta",
+"children": [
+{"name":" db190 ",  "size":  2 },
+{}]
+},
+{
+"name": "treemix",
+"children": [
+{"name":" prs6 ",  "size":  1 },
+{}]
+},
+{
+"name": "samtools",
+"children": [
+{"name":" ly55 ",  "size":  1 },
+{}]
+},
+{
+"name": "python",
+"children": [
+{"name":" jd187 ",  "size":  1 },
+{}]
+},
+{
+"name": "geneBody_covera",
+"children": [
+{"name":" mkv6 ",  "size":  1 },
+{}]
+},
+{
+"name": "clipping_profil",
+"children": [
+{"name":" mkv6 ",  "size":  1 },
+{}]
+},
+{
+"name": "bwa",
+"children": [
+{"name":" sm213 ",  "size":  1 },
+{}]
+},
+{
+"name": "bam_stat.py",
+"children": [
+{"name":" mkv6 ",  "size":  1 },
+{}]
+},
+{}]
+}
