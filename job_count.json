@@ -4,10 +4,10 @@
 {
 "name": "java",
 "children": [
-{"name":" at55 ",  "size":  66 },
-{"name":" dd69 ",  "size":  9 },
-{"name":" hl141 ",  "size":  44 },
-{"name":" sg66 ",  "size":  1018 },
+{"name":" at55 ",  "size":  64 },
+{"name":" dd69 ",  "size":  20 },
+{"name":" hl141 ",  "size":  42 },
+{"name":" sg66 ",  "size":  1009 },
 {"name":" sl279 ",  "size":  1 },
 {"name":" srd4 ",  "size":  52 },
 {}]
@@ -17,9 +17,9 @@
 "children": [
 {"name":" ees14 ",  "size":  130 },
 {"name":" jas64 ",  "size":  6 },
-{"name":" jnm9 ",  "size":  140 },
-{"name":" kes21 ",  "size":  43 },
-{"name":" ki47 ",  "size":  206 },
+{"name":" jnm9 ",  "size":  156 },
+{"name":" kes21 ",  "size":  49 },
+{"name":" ki47 ",  "size":  202 },
 {"name":" sl279 ",  "size":  3 },
 {"name":" tc111 ",  "size":  1 },
 {"name":" tjh20 ",  "size":  358 },
@@ -28,11 +28,11 @@
 {
 "name": "MATLAB",
 "children": [
-{"name":" crp1 ",  "size":  1 },
+{"name":" crp1 ",  "size":  2 },
 {"name":" eb141 ",  "size":  5 },
 {"name":" gi16 ",  "size":  2 },
-{"name":" mf203 ",  "size":  17 },
-{"name":" sa276 ",  "size":  510 },
+{"name":" mf203 ",  "size":  16 },
+{"name":" sa276 ",  "size":  509 },
 {"name":" sh269 ",  "size":  17 },
 {}]
 },
@@ -45,10 +45,16 @@
 {
 "name": "python",
 "children": [
-{"name":" bv25 ",  "size":  84 },
+{"name":" bv25 ",  "size":  87 },
 {"name":" jd187 ",  "size":  1 },
 {"name":" qw41 ",  "size":  2 },
-{"name":" xl168 ",  "size":  67 },
+{"name":" xl168 ",  "size":  71 },
+{}]
+},
+{
+"name": "gcta",
+"children": [
+{"name":" gb67 ",  "size":  152 },
 {}]
 },
 {
@@ -58,27 +64,21 @@
 {}]
 },
 {
-"name": "gcta",
-"children": [
-{"name":" gb67 ",  "size":  111 },
-{}]
-},
-{
 "name": "step2",
 "children": [
-{"name":" kmn7 ",  "size":  74 },
+{"name":" kmn7 ",  "size":  80 },
 {}]
 },
 {
 "name": "admixture",
 "children": [
-{"name":" il41 ",  "size":  73 },
+{"name":" il41 ",  "size":  74 },
 {}]
 },
 {
 "name": "codeml",
 "children": [
-{"name":" xz133 ",  "size":  34 },
+{"name":" xz133 ",  "size":  33 },
 {}]
 },
 {
@@ -102,7 +102,7 @@
 {
 "name": "tophat_reports",
 "children": [
-{"name":" ft42 ",  "size":  12 },
+{"name":" ft42 ",  "size":  6 },
 {}]
 },
 {
@@ -115,13 +115,7 @@
 {
 "name": "blat",
 "children": [
-{"name":" pt72 ",  "size":  5 },
-{}]
-},
-{
-"name": "cuffdiff",
-"children": [
-{"name":" ft42 ",  "size":  3 },
+{"name":" pt72 ",  "size":  6 },
 {}]
 },
 {
@@ -138,15 +132,15 @@
 {}]
 },
 {
-"name": "meme.bin",
-"children": [
-{"name":" ik79 ",  "size":  2 },
-{}]
-},
-{
 "name": "jackhmmer",
 "children": [
 {"name":" ak440 ",  "size":  2 },
+{}]
+},
+{
+"name": "cuffdiff",
+"children": [
+{"name":" ft42 ",  "size":  2 },
 {}]
 },
 {
@@ -168,9 +162,9 @@
 {}]
 },
 {
-"name": "perl",
+"name": "meme.bin",
 "children": [
-{"name":" pt72 ",  "size":  1 },
+{"name":" ik79 ",  "size":  1 },
 {}]
 },
 {
