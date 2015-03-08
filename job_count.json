@@ -2,46 +2,43 @@
 "name": "flare",
  "children": [
 {
-"name": "R",
-"children": [
-{"name":" hu2 ",  "size":  2 },
-{"name":" jas64 ",  "size":  1 },
-{"name":" kes21 ",  "size":  2 },
-{"name":" ki47 ",  "size":  99 },
-{"name":" nbc7 ",  "size":  361 },
-{"name":" yj12 ",  "size":  3 },
-{"name":" yjh5 ",  "size":  9 },
-{}]
-},
-{
 "name": "MATLAB",
 "children": [
-{"name":" asm27 ",  "size":  58 },
+{"name":" asm27 ",  "size":  48 },
+{"name":" cmd16 ",  "size":  35 },
+{"name":" dgr5 ",  "size":  35 },
 {"name":" eb141 ",  "size":  11 },
-{"name":" gi16 ",  "size":  2 },
-{"name":" il41 ",  "size":  1 },
-{"name":" mf203 ",  "size":  30 },
+{"name":" jmh12 ",  "size":  308 },
+{"name":" mf203 ",  "size":  21 },
 {"name":" sa276 ",  "size":  5 },
 {"name":" sh269 ",  "size":  13 },
 {"name":" tah11 ",  "size":  2 },
 {}]
 },
 {
-"name": "java",
+"name": "R",
 "children": [
-{"name":" at55 ",  "size":  8 },
-{"name":" dd69 ",  "size":  1 },
-{"name":" ra140 ",  "size":  19 },
-{"name":" sg66 ",  "size":  16 },
-{"name":" srd4 ",  "size":  26 },
+{"name":" hu2 ",  "size":  18 },
+{"name":" jas64 ",  "size":  1 },
+{"name":" kes21 ",  "size":  2 },
+{"name":" ki47 ",  "size":  98 },
+{"name":" nbc7 ",  "size":  344 },
+{"name":" sl279 ",  "size":  1 },
+{"name":" yj12 ",  "size":  1 },
+{"name":" yjh5 ",  "size":  9 },
+{}]
+},
+{
+"name": "gcta64",
+"children": [
+{"name":" ag284 ",  "size":  381 },
 {}]
 },
 {
 "name": "python",
 "children": [
-{"name":" acr23 ",  "size":  1 },
 {"name":" ha74 ",  "size":  64 },
-{"name":" sg348 ",  "size":  2 },
+{"name":" jd143 ",  "size":  1 },
 {}]
 },
 {
@@ -51,31 +48,19 @@
 {}]
 },
 {
+"name": "java",
+"children": [
+{"name":" at55 ",  "size":  8 },
+{"name":" dd69 ",  "size":  1 },
+{"name":" ra140 ",  "size":  3 },
+{"name":" sg66 ",  "size":  11 },
+{"name":" srd4 ",  "size":  25 },
+{}]
+},
+{
 "name": "step2",
 "children": [
 {"name":" kmn7 ",  "size":  47 },
-{}]
-},
-{
-"name": "samtools",
-"children": [
-{"name":" el114 ",  "size":  11 },
-{"name":" ly55 ",  "size":  1 },
-{"name":" sm213 ",  "size":  31 },
-{}]
-},
-{
-"name": "cuffdiff",
-"children": [
-{"name":" ajl19 ",  "size":  4 },
-{"name":" bc114 ",  "size":  1 },
-{"name":" ft42 ",  "size":  12 },
-{}]
-},
-{
-"name": "admixture",
-"children": [
-{"name":" il41 ",  "size":  17 },
 {}]
 },
 {
@@ -85,10 +70,23 @@
 {}]
 },
 {
+"name": "samtools",
+"children": [
+{"name":" el114 ",  "size":  7 },
+{"name":" ly55 ",  "size":  1 },
+{"name":" sm213 ",  "size":  4 },
+{}]
+},
+{
+"name": "admixture",
+"children": [
+{"name":" il41 ",  "size":  12 },
+{}]
+},
+{
 "name": "smartpca",
 "children": [
-{"name":" kjg15 ",  "size":  11 },
-{"name":" sm213 ",  "size":  1 },
+{"name":" kjg15 ",  "size":  10 },
 {}]
 },
 {
@@ -98,39 +96,45 @@
 {}]
 },
 {
-"name": "gcta64",
+"name": "tophat_reports",
 "children": [
-{"name":" ag284 ",  "size":  9 },
+{"name":" rsl18 ",  "size":  8 },
+{}]
+},
+{
+"name": "cuffdiff",
+"children": [
+{"name":" ft42 ",  "size":  6 },
+{}]
+},
+{
+"name": "computed",
+"children": [
+{"name":" pm82 ",  "size":  5 },
 {}]
 },
 {
 "name": "first",
 "children": [
-{"name":" bg90 ",  "size":  8 },
+{"name":" bg90 ",  "size":  4 },
 {}]
 },
 {
 "name": "blasr",
 "children": [
-{"name":" acr23 ",  "size":  8 },
+{"name":" acr23 ",  "size":  4 },
 {}]
 },
 {
-"name": "vcfutils.pl",
+"name": "phyloFit",
 "children": [
-{"name":" sm213 ",  "size":  5 },
+{"name":" jd143 ",  "size":  3 },
 {}]
 },
 {
-"name": "SeqPrep",
+"name": "bwa",
 "children": [
-{"name":" sm213 ",  "size":  4 },
-{}]
-},
-{
-"name": "plink",
-"children": [
-{"name":" kjg15 ",  "size":  3 },
+{"name":" sm213 ",  "size":  3 },
 {}]
 },
 {
@@ -146,15 +150,15 @@
 {}]
 },
 {
-"name": "bamreader24a",
-"children": [
-{"name":" psm13 ",  "size":  2 },
-{}]
-},
-{
 "name": "snpindex",
 "children": [
 {"name":" ms608 ",  "size":  1 },
+{}]
+},
+{
+"name": "SeqPrep",
+"children": [
+{"name":" sm213 ",  "size":  1 },
 {}]
 },
 {
@@ -164,15 +168,27 @@
 {}]
 },
 {
+"name": "samstat",
+"children": [
+{"name":" sm213 ",  "size":  1 },
+{}]
+},
+{
 "name": "rnnlib",
 "children": [
 {"name":" ma257 ",  "size":  1 },
 {}]
 },
 {
-"name": "pseq",
+"name": "plink",
 "children": [
-{"name":" dd69 ",  "size":  1 },
+{"name":" kjg15 ",  "size":  1 },
+{}]
+},
+{
+"name": "loadPulses",
+"children": [
+{"name":" acr23 ",  "size":  1 },
 {}]
 },
 {
@@ -188,9 +204,9 @@
 {}]
 },
 {
-"name": "bowtie2-align",
+"name": "cufflinks",
 "children": [
-{"name":" bc128 ",  "size":  1 },
+{"name":" pt72 ",  "size":  1 },
 {}]
 },
 {}]
