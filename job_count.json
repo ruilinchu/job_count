@@ -5,36 +5,16 @@
 "name": "java",
 "children": [
 {"name":" at55 ",  "size":  3 },
+{"name":" hl141 ",  "size":  4 },
 {"name":" hy79 ",  "size":  1 },
-{"name":" mh326 ",  "size":  10 },
-{"name":" sg66 ",  "size":  1053 },
+{"name":" sg66 ",  "size":  1036 },
 {"name":" srd4 ",  "size":  7 },
 {}]
 },
 {
 "name": "vinaBMPI",
 "children": [
-{"name":" fej2 ",  "size":  749 },
-{}]
-},
-{
-"name": "R",
-"children": [
-{"name":" af161 ",  "size":  2 },
-{"name":" dsd9 ",  "size":  2 },
-{"name":" jcj15 ",  "size":  1 },
-{"name":" jnm9 ",  "size":  71 },
-{"name":" kes21 ",  "size":  2 },
-{"name":" ki47 ",  "size":  90 },
-{"name":" nbc7 ",  "size":  12 },
-{"name":" sl279 ",  "size":  9 },
-{"name":" yjh5 ",  "size":  3 },
-{}]
-},
-{
-"name": "jackhmmer",
-"children": [
-{"name":" ak440 ",  "size":  130 },
+{"name":" fej2 ",  "size":  750 },
 {}]
 },
 {
@@ -44,88 +24,70 @@
 {}]
 },
 {
-"name": "msmc",
+"name": "R",
 "children": [
-{"name":" im60 ",  "size":  93 },
+{"name":" af161 ",  "size":  2 },
+{"name":" jcj15 ",  "size":  1 },
+{"name":" jnm9 ",  "size":  10 },
+{"name":" kb124 ",  "size":  4 },
+{"name":" kes21 ",  "size":  2 },
+{"name":" ki47 ",  "size":  90 },
+{"name":" nbc7 ",  "size":  6 },
+{"name":" sl279 ",  "size":  9 },
+{"name":" yjh5 ",  "size":  3 },
+{}]
+},
+{
+"name": "jackhmmer",
+"children": [
+{"name":" ak440 ",  "size":  70 },
+{}]
+},
+{
+"name": "bsmap",
+"children": [
+{"name":" lg140 ",  "size":  44 },
 {}]
 },
 {
 "name": "step2",
 "children": [
-{"name":" kmn7 ",  "size":  46 },
+{"name":" kmn7 ",  "size":  43 },
+{}]
+},
+{
+"name": "bwa",
+"children": [
+{"name":" sm213 ",  "size":  17 },
+{}]
+},
+{
+"name": "first",
+"children": [
+{"name":" bg90 ",  "size":  16 },
 {}]
 },
 {
 "name": "admixture",
 "children": [
-{"name":" il41 ",  "size":  44 },
+{"name":" il41 ",  "size":  16 },
 {}]
 },
 {
 "name": "MATLAB",
 "children": [
-{"name":" asm27 ",  "size":  5 },
-{"name":" dgr5 ",  "size":  7 },
 {"name":" eb141 ",  "size":  8 },
 {"name":" fje3 ",  "size":  3 },
+{"name":" gi16 ",  "size":  2 },
 {"name":" sa276 ",  "size":  2 },
-{}]
-},
-{
-"name": "cmakefilter",
-"children": [
-{"name":" mz128 ",  "size":  20 },
-{}]
-},
-{
-"name": "FPKM_count.py",
-"children": [
-{"name":" dh128 ",  "size":  10 },
-{}]
-},
-{
-"name": "plm",
-"children": [
-{"name":" ji25 ",  "size":  9 },
-{}]
-},
-{
-"name": "spamo",
-"children": [
-{"name":" dsd9 ",  "size":  8 },
-{}]
-},
-{
-"name": "bowtie-align-s",
-"children": [
-{"name":" hy79 ",  "size":  7 },
-{}]
-},
-{
-"name": "bowtie2-align-s",
-"children": [
-{"name":" hy79 ",  "size":  6 },
-{}]
-},
-{
-"name": "bam2majfa",
-"children": [
-{"name":" np29 ",  "size":  6 },
 {}]
 },
 {
 "name": "samtools",
 "children": [
-{"name":" np29 ",  "size":  3 },
+{"name":" hy79 ",  "size":  1 },
+{"name":" lg140 ",  "size":  2 },
 {"name":" sm213 ",  "size":  2 },
-{}]
-},
-{
-"name": "gzip",
-"children": [
-{"name":" as695 ",  "size":  1 },
-{"name":" mz128 ",  "size":  2 },
-{"name":" sl279 ",  "size":  1 },
 {}]
 },
 {
@@ -141,42 +103,16 @@
 {}]
 },
 {
-"name": "bowtie",
-"children": [
-{"name":" xw99 ",  "size":  4 },
-{}]
-},
-{
 "name": "stdp",
 "children": [
 {"name":" tm150 ",  "size":  3 },
 {}]
 },
 {
-"name": "perl",
-"children": [
-{"name":" ft42 ",  "size":  2 },
-{"name":" psm13 ",  "size":  1 },
-{}]
-},
-{
-"name": "cufflinks",
-"children": [
-{"name":" cm207 ",  "size":  1 },
-{"name":" rsl18 ",  "size":  2 },
-{}]
-},
-{
 "name": "python",
 "children": [
-{"name":" ak440 ",  "size":  1 },
+{"name":" dh128 ",  "size":  1 },
 {"name":" dmj6 ",  "size":  1 },
-{}]
-},
-{
-"name": "plink",
-"children": [
-{"name":" gb67 ",  "size":  2 },
 {}]
 },
 {
@@ -186,9 +122,9 @@
 {}]
 },
 {
-"name": "fastq-dump",
+"name": "cufflinks",
 "children": [
-{"name":" xw99 ",  "size":  2 },
+{"name":" rsl18 ",  "size":  2 },
 {}]
 },
 {
@@ -198,21 +134,39 @@
 {}]
 },
 {
+"name": "sam-dump",
+"children": [
+{"name":" srd4 ",  "size":  1 },
+{}]
+},
+{
+"name": "plink",
+"children": [
+{"name":" gb67 ",  "size":  1 },
+{}]
+},
+{
+"name": "perl",
+"children": [
+{"name":" ft42 ",  "size":  1 },
+{}]
+},
+{
+"name": "macs2",
+"children": [
+{"name":" hy79 ",  "size":  1 },
+{}]
+},
+{
 "name": "geneBody_covera",
 "children": [
 {"name":" dh128 ",  "size":  1 },
 {}]
 },
 {
-"name": "dreme",
+"name": "emrefinement",
 "children": [
-{"name":" dsd9 ",  "size":  1 },
-{}]
-},
-{
-"name": "cutadapt",
-"children": [
-{"name":" as695 ",  "size":  1 },
+{"name":" rf89 ",  "size":  1 },
 {}]
 },
 {
@@ -222,27 +176,21 @@
 {}]
 },
 {
-"name": "cas_Q1D7V5sim_1",
+"name": "coalescent",
 "children": [
-{"name":" rf89 ",  "size":  1 },
+{"name":" pp170 ",  "size":  1 },
 {}]
 },
 {
-"name": "bwa",
+"name": "bowtie-align-s",
 "children": [
-{"name":" sm213 ",  "size":  1 },
+{"name":" hy79 ",  "size":  1 },
 {}]
 },
 {
-"name": "bgzip",
+"name": "bamreader24a",
 "children": [
-{"name":" sl279 ",  "size":  1 },
-{}]
-},
-{
-"name": "bedtools",
-"children": [
-{"name":" sm213 ",  "size":  1 },
+{"name":" psm13 ",  "size":  1 },
 {}]
 },
 {}]
