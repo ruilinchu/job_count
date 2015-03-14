@@ -2,84 +2,120 @@
 "name": "flare",
  "children": [
 {
-"name": "java",
-"children": [
-{"name":" at55 ",  "size":  3 },
-{"name":" ld32 ",  "size":  55 },
-{"name":" mh326 ",  "size":  7 },
-{"name":" sg66 ",  "size":  1014 },
-{"name":" srd4 ",  "size":  113 },
-{}]
-},
-{
 "name": "R",
 "children": [
-{"name":" af161 ",  "size":  2 },
-{"name":" jcj15 ",  "size":  1 },
+{"name":" af161 ",  "size":  1 },
+{"name":" dsd9 ",  "size":  2 },
+{"name":" el116 ",  "size":  2 },
+{"name":" hu2 ",  "size":  471 },
 {"name":" kb124 ",  "size":  2 },
-{"name":" kes21 ",  "size":  209 },
-{"name":" ki47 ",  "size":  87 },
+{"name":" kes21 ",  "size":  6 },
+{"name":" ki47 ",  "size":  71 },
 {"name":" nbc7 ",  "size":  754 },
-{"name":" sl279 ",  "size":  8 },
+{"name":" sl279 ",  "size":  3 },
+{"name":" sm213 ",  "size":  88 },
 {"name":" yjh5 ",  "size":  3 },
 {}]
 },
 {
-"name": "vinaBMPI",
+"name": "java",
 "children": [
-{"name":" fej2 ",  "size":  749 },
-{}]
-},
-{
-"name": "MATLAB",
-"children": [
-{"name":" asm27 ",  "size":  112 },
-{"name":" eb141 ",  "size":  8 },
-{"name":" fje3 ",  "size":  3 },
-{"name":" sa276 ",  "size":  40 },
-{"name":" yy118 ",  "size":  85 },
+{"name":" at55 ",  "size":  3 },
+{"name":" mh326 ",  "size":  5 },
+{"name":" pp170 ",  "size":  17 },
+{"name":" sg66 ",  "size":  824 },
+{"name":" srd4 ",  "size":  7 },
+{"name":" zjw2 ",  "size":  42 },
 {}]
 },
 {
 "name": "step2",
 "children": [
-{"name":" kmn7 ",  "size":  89 },
+{"name":" kmn7 ",  "size":  266 },
+{}]
+},
+{
+"name": "vinaBMPI",
+"children": [
+{"name":" fej2 ",  "size":  255 },
+{}]
+},
+{
+"name": "MATLAB",
+"children": [
+{"name":" eb141 ",  "size":  7 },
+{"name":" mf203 ",  "size":  137 },
+{"name":" sa276 ",  "size":  9 },
+{}]
+},
+{
+"name": "python3",
+"children": [
+{"name":" im60 ",  "size":  72 },
+{}]
+},
+{
+"name": "msmc",
+"children": [
+{"name":" im60 ",  "size":  72 },
 {}]
 },
 {
 "name": "sxisac.py",
 "children": [
-{"name":" hc148 ",  "size":  63 },
+{"name":" hc148 ",  "size":  64 },
 {}]
 },
 {
-"name": "python",
+"name": "bowtie2-align",
 "children": [
-{"name":" dl204 ",  "size":  15 },
-{"name":" dmj6 ",  "size":  1 },
-{"name":" ep129 ",  "size":  1 },
-{"name":" lg140 ",  "size":  4 },
-{"name":" lys6 ",  "size":  1 },
+{"name":" dh128 ",  "size":  40 },
+{"name":" xw99 ",  "size":  12 },
+{}]
+},
+{
+"name": "cmakefilter",
+"children": [
+{"name":" mz128 ",  "size":  32 },
+{}]
+},
+{
+"name": "bowtie2-align-s",
+"children": [
+{"name":" lg140 ",  "size":  24 },
+{}]
+},
+{
+"name": "segment_juncs",
+"children": [
+{"name":" dh128 ",  "size":  4 },
+{"name":" xw99 ",  "size":  14 },
 {}]
 },
 {
 "name": "bwa",
 "children": [
-{"name":" psm13 ",  "size":  1 },
-{"name":" sm213 ",  "size":  17 },
+{"name":" sm213 ",  "size":  14 },
 {}]
 },
 {
-"name": "warp3",
+"name": "cuffdiff",
 "children": [
-{"name":" bg90 ",  "size":  16 },
+{"name":" dh128 ",  "size":  4 },
+{"name":" ft42 ",  "size":  9 },
 {}]
 },
 {
-"name": "jackhmmer",
+"name": "python",
 "children": [
-{"name":" ak440 ",  "size":  6 },
-{"name":" lys6 ",  "size":  8 },
+{"name":" ep129 ",  "size":  1 },
+{"name":" lg140 ",  "size":  7 },
+{}]
+},
+{
+"name": "apt-probeset-su",
+"children": [
+{"name":" kes21 ",  "size":  8 },
 {}]
 },
 {
@@ -89,30 +125,73 @@
 {}]
 },
 {
-"name": "cuffdiff",
+"name": "gzip",
 "children": [
-{"name":" dh128 ",  "size":  3 },
-{"name":" ft42 ",  "size":  4 },
+{"name":" mz128 ",  "size":  6 },
+{"name":" tdl7 ",  "size":  1 },
 {}]
 },
 {
-"name": "samtools",
+"name": "bam2majfa",
 "children": [
-{"name":" dh128 ",  "size":  1 },
-{"name":" lg140 ",  "size":  3 },
-{"name":" sm213 ",  "size":  2 },
+{"name":" np29 ",  "size":  6 },
+{}]
+},
+{
+"name": "blat",
+"children": [
+{"name":" eas67 ",  "size":  5 },
 {}]
 },
 {
 "name": "stdp",
 "children": [
-{"name":" tm150 ",  "size":  2 },
+{"name":" tm150 ",  "size":  4 },
 {}]
 },
 {
-"name": "meta-analyze.10",
+"name": "bowtie",
 "children": [
-{"name":" sp164 ",  "size":  2 },
+{"name":" xw99 ",  "size":  4 },
+{}]
+},
+{
+"name": "blasr",
+"children": [
+{"name":" acr23 ",  "size":  4 },
+{}]
+},
+{
+"name": "apt-probeset-ge",
+"children": [
+{"name":" kes21 ",  "size":  4 },
+{}]
+},
+{
+"name": "samtools",
+"children": [
+{"name":" np29 ",  "size":  1 },
+{"name":" sm213 ",  "size":  2 },
+{}]
+},
+{
+"name": "fix_map_orderin",
+"children": [
+{"name":" dh128 ",  "size":  1 },
+{"name":" xw99 ",  "size":  2 },
+{}]
+},
+{
+"name": "perl",
+"children": [
+{"name":" ft42 ",  "size":  1 },
+{"name":" sm213 ",  "size":  1 },
+{}]
+},
+{
+"name": "normalize_affy_",
+"children": [
+{"name":" kes21 ",  "size":  2 },
 {}]
 },
 {
@@ -122,15 +201,15 @@
 {}]
 },
 {
-"name": "compute_hamming",
+"name": "jackhmmer",
 "children": [
-{"name":" lys6 ",  "size":  2 },
+{"name":" ak440 ",  "size":  2 },
 {}]
 },
 {
-"name": "webalizer",
+"name": "birdseye_64",
 "children": [
-{"name":" orchestr ",  "size":  1 },
+{"name":" kes21 ",  "size":  2 },
 {}]
 },
 {
@@ -140,45 +219,33 @@
 {}]
 },
 {
-"name": "smartpca",
-"children": [
-{"name":" prs6 ",  "size":  1 },
-{}]
-},
-{
 "name": "pseq",
 "children": [
 {"name":" ah249 ",  "size":  1 },
 {}]
 },
 {
-"name": "perl",
+"name": "paramotopy",
 "children": [
-{"name":" ft42 ",  "size":  1 },
+{"name":" kmn7 ",  "size":  1 },
 {}]
 },
 {
-"name": "need_softwareop",
+"name": "long_spanning_r",
 "children": [
-{"name":" asm27 ",  "size":  1 },
+{"name":" xw99 ",  "size":  1 },
 {}]
 },
 {
-"name": "mcrefinement",
+"name": "fastq-dump",
 "children": [
-{"name":" rf89 ",  "size":  1 },
+{"name":" xw99 ",  "size":  1 },
 {}]
 },
 {
-"name": "geneBody_covera",
+"name": "emacs",
 "children": [
-{"name":" dh128 ",  "size":  1 },
-{}]
-},
-{
-"name": "cutadapt",
-"children": [
-{"name":" lg140 ",  "size":  1 },
+{"name":" jf154 ",  "size":  1 },
 {}]
 },
 {
@@ -194,21 +261,9 @@
 {}]
 },
 {
-"name": "bowtie2-align-s",
+"name": "bismark",
 "children": [
-{"name":" hy79 ",  "size":  1 },
-{}]
-},
-{
-"name": "blat",
-"children": [
-{"name":" eas67 ",  "size":  1 },
-{}]
-},
-{
-"name": "bedtools",
-"children": [
-{"name":" hy79 ",  "size":  1 },
+{"name":" lg140 ",  "size":  1 },
 {}]
 },
 {}]
