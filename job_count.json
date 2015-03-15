@@ -7,7 +7,7 @@
 {"name":" abg7 ",  "size":  3 },
 {"name":" at55 ",  "size":  3 },
 {"name":" ft42 ",  "size":  2 },
-{"name":" pp170 ",  "size":  35 },
+{"name":" pp170 ",  "size":  36 },
 {"name":" sg66 ",  "size":  1045 },
 {"name":" srd4 ",  "size":  6 },
 {"name":" zjw2 ",  "size":  1000 },
@@ -26,7 +26,7 @@
 {
 "name": "step2",
 "children": [
-{"name":" kmn7 ",  "size":  323 },
+{"name":" kmn7 ",  "size":  324 },
 {}]
 },
 {
@@ -58,7 +58,7 @@
 "name": "python",
 "children": [
 {"name":" gjx1 ",  "size":  1 },
-{"name":" xl168 ",  "size":  58 },
+{"name":" xl168 ",  "size":  59 },
 {}]
 },
 {
@@ -94,20 +94,20 @@
 {
 "name": "samtools",
 "children": [
-{"name":" np29 ",  "size":  5 },
+{"name":" np29 ",  "size":  6 },
 {"name":" sm213 ",  "size":  2 },
-{}]
-},
-{
-"name": "awk",
-"children": [
-{"name":" pp170 ",  "size":  7 },
 {}]
 },
 {
 "name": "bowtie2-align-s",
 "children": [
 {"name":" lg140 ",  "size":  6 },
+{}]
+},
+{
+"name": "awk",
+"children": [
+{"name":" pp170 ",  "size":  6 },
 {}]
 },
 {
@@ -141,12 +141,6 @@
 {}]
 },
 {
-"name": "germline",
-"children": [
-{"name":" pp170 ",  "size":  3 },
-{}]
-},
-{
 "name": "stdp",
 "children": [
 {"name":" tm150 ",  "size":  2 },
@@ -160,9 +154,21 @@
 {}]
 },
 {
+"name": "plink",
+"children": [
+{"name":" pp170 ",  "size":  2 },
+{}]
+},
+{
 "name": "meme.bin",
 "children": [
 {"name":" ik79 ",  "size":  2 },
+{}]
+},
+{
+"name": "germline",
+"children": [
+{"name":" pp170 ",  "size":  2 },
 {}]
 },
 {
@@ -181,12 +187,6 @@
 "name": "prun",
 "children": [
 {"name":" bg90 ",  "size":  1 },
-{}]
-},
-{
-"name": "plink",
-"children": [
-{"name":" pp170 ",  "size":  1 },
 {}]
 },
 {
