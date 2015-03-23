@@ -5,22 +5,18 @@
 "name": "java",
 "children": [
 {"name":" at55 ",  "size":  7 },
-{"name":" cmg21 ",  "size":  72 },
-{"name":" el114 ",  "size":  2 },
-{"name":" jgh14 ",  "size":  120 },
-{"name":" pp170 ",  "size":  38 },
-{"name":" sg66 ",  "size":  223 },
-{"name":" sr45 ",  "size":  69 },
-{"name":" zjw2 ",  "size":  876 },
+{"name":" cmg21 ",  "size":  92 },
+{"name":" el114 ",  "size":  1 },
+{"name":" jgh14 ",  "size":  34 },
+{"name":" sg66 ",  "size":  137 },
+{"name":" sr45 ",  "size":  97 },
+{"name":" zjw2 ",  "size":  1043 },
 {}]
 },
 {
-"name": "R",
+"name": "novoalign",
 "children": [
-{"name":" bm111 ",  "size":  2 },
-{"name":" ds299 ",  "size":  1 },
-{"name":" jnm9 ",  "size":  497 },
-{"name":" ki47 ",  "size":  68 },
+{"name":" jgh14 ",  "size":  785 },
 {}]
 },
 {
@@ -30,21 +26,9 @@
 {}]
 },
 {
-"name": "novoalign",
-"children": [
-{"name":" jgh14 ",  "size":  364 },
-{}]
-},
-{
-"name": "ms",
-"children": [
-{"name":" pm82 ",  "size":  200 },
-{}]
-},
-{
 "name": "step2",
 "children": [
-{"name":" kmn7 ",  "size":  131 },
+{"name":" kmn7 ",  "size":  245 },
 {}]
 },
 {
@@ -52,21 +36,28 @@
 "children": [
 {"name":" car54 ",  "size":  12 },
 {"name":" eb141 ",  "size":  8 },
-{"name":" has15 ",  "size":  6 },
-{"name":" sa276 ",  "size":  33 },
+{"name":" has15 ",  "size":  4 },
+{"name":" sa276 ",  "size":  48 },
 {"name":" tx4 ",  "size":  1 },
+{}]
+},
+{
+"name": "R",
+"children": [
+{"name":" bm111 ",  "size":  1 },
+{"name":" ki47 ",  "size":  68 },
 {}]
 },
 {
 "name": "rnnlib",
 "children": [
-{"name":" ma257 ",  "size":  55 },
+{"name":" ma257 ",  "size":  59 },
 {}]
 },
 {
 "name": "admixture",
 "children": [
-{"name":" amk69 ",  "size":  52 },
+{"name":" amk69 ",  "size":  30 },
 {}]
 },
 {
@@ -78,37 +69,19 @@
 {
 "name": "gmx",
 "children": [
-{"name":" aks33 ",  "size":  20 },
+{"name":" aks33 ",  "size":  21 },
 {}]
 },
 {
 "name": "cdivergence",
 "children": [
-{"name":" np29 ",  "size":  19 },
+{"name":" np29 ",  "size":  16 },
 {}]
 },
 {
-"name": "jackhmmer",
+"name": "bowtie2-align",
 "children": [
-{"name":" sh269 ",  "size":  8 },
-{}]
-},
-{
-"name": "bwa",
-"children": [
-{"name":" el114 ",  "size":  8 },
-{}]
-},
-{
-"name": "bowtie",
-"children": [
-{"name":" kmh40 ",  "size":  8 },
-{}]
-},
-{
-"name": "bowtie-align-s",
-"children": [
-{"name":" el116 ",  "size":  7 },
+{"name":" ah283 ",  "size":  12 },
 {}]
 },
 {
@@ -118,53 +91,34 @@
 {}]
 },
 {
-"name": "python",
+"name": "bwa",
 "children": [
-{"name":" ah283 ",  "size":  1 },
-{"name":" sg348 ",  "size":  5 },
+{"name":" el114 ",  "size":  5 },
 {}]
 },
 {
 "name": "samtools",
 "children": [
-{"name":" jgh14 ",  "size":  3 },
+{"name":" el114 ",  "size":  2 },
 {"name":" sm213 ",  "size":  2 },
-{}]
-},
-{
-"name": "bedtools",
-"children": [
-{"name":" md270 ",  "size":  5 },
-{}]
-},
-{
-"name": "tabix",
-"children": [
-{"name":" sl279 ",  "size":  4 },
-{}]
-},
-{
-"name": "prep_reads",
-"children": [
-{"name":" ah283 ",  "size":  3 },
-{}]
-},
-{
-"name": "newsamtools",
-"children": [
-{"name":" nr32 ",  "size":  3 },
 {}]
 },
 {
 "name": "contra.py",
 "children": [
-{"name":" md270 ",  "size":  2 },
+{"name":" md270 ",  "size":  4 },
 {}]
 },
 {
-"name": "stdp",
+"name": "segment_juncs",
 "children": [
-{"name":" tm150 ",  "size":  1 },
+{"name":" ah283 ",  "size":  3 },
+{}]
+},
+{
+"name": "paramotopy",
+"children": [
+{"name":" kmn7 ",  "size":  3 },
 {}]
 },
 {
@@ -174,45 +128,27 @@
 {}]
 },
 {
-"name": "pulldown",
-"children": [
-{"name":" nr32 ",  "size":  1 },
-{}]
-},
-{
-"name": "perl",
-"children": [
-{"name":" ft42 ",  "size":  1 },
-{}]
-},
-{
-"name": "paramotopy",
-"children": [
-{"name":" kmn7 ",  "size":  1 },
-{}]
-},
-{
 "name": "EMSAR",
 "children": [
 {"name":" sl325 ",  "size":  1 },
 {}]
 },
 {
-"name": "cuffdiff",
-"children": [
-{"name":" kmh37 ",  "size":  1 },
-{}]
-},
-{
-"name": "bowtie2-build",
-"children": [
-{"name":" ah283 ",  "size":  1 },
-{}]
-},
-{
 "name": "bolt",
 "children": [
 {"name":" mh326 ",  "size":  1 },
+{}]
+},
+{
+"name": "blastall",
+"children": [
+{"name":" qx15 ",  "size":  1 },
+{}]
+},
+{
+"name": "bedtools",
+"children": [
+{"name":" tjc5 ",  "size":  1 },
 {}]
 },
 {}]
