@@ -4,69 +4,79 @@
 {
 "name": "java",
 "children": [
-{"name":" at55 ",  "size":  234 },
-{"name":" cmg21 ",  "size":  308 },
-{"name":" ep129 ",  "size":  3 },
-{"name":" hgh2 ",  "size":  5 },
-{"name":" lp113 ",  "size":  6 },
-{"name":" mwl10 ",  "size":  292 },
-{"name":" pp170 ",  "size":  134 },
-{"name":" sr45 ",  "size":  277 },
+{"name":" at55 ",  "size":  262 },
+{"name":" cmg21 ",  "size":  283 },
+{"name":" ep129 ",  "size":  1 },
+{"name":" kih1 ",  "size":  8 },
+{"name":" kmh40 ",  "size":  2 },
+{"name":" lp113 ",  "size":  1 },
+{"name":" mwl10 ",  "size":  288 },
+{"name":" pp170 ",  "size":  104 },
+{"name":" sm213 ",  "size":  2 },
+{"name":" sr45 ",  "size":  285 },
 {"name":" srd4 ",  "size":  1 },
-{"name":" zjw2 ",  "size":  33 },
-{}]
-},
-{
-"name": "python",
-"children": [
-{"name":" el116 ",  "size":  1 },
-{"name":" prs6 ",  "size":  249 },
-{"name":" sm213 ",  "size":  209 },
-{}]
-},
-{
-"name": "buruliIBM",
-"children": [
-{"name":" ag350 ",  "size":  455 },
-{}]
-},
-{
-"name": "hcash",
-"children": [
-{"name":" eab42 ",  "size":  4 },
-{"name":" nlg3 ",  "size":  11 },
-{"name":" ss407 ",  "size":  305 },
-{}]
-},
-{
-"name": "laser",
-"children": [
-{"name":" dd69 ",  "size":  277 },
+{"name":" zjw2 ",  "size":  26 },
 {}]
 },
 {
 "name": "MATLAB",
 "children": [
-{"name":" asm27 ",  "size":  86 },
-{"name":" car54 ",  "size":  11 },
-{"name":" ce49 ",  "size":  13 },
+{"name":" asm27 ",  "size":  40 },
+{"name":" car54 ",  "size":  17 },
+{"name":" ce49 ",  "size":  6 },
 {"name":" cmd16 ",  "size":  129 },
 {"name":" cs281 ",  "size":  4 },
 {"name":" eb141 ",  "size":  4 },
+{"name":" fje3 ",  "size":  14 },
+{"name":" jmh12 ",  "size":  160 },
 {"name":" mh168 ",  "size":  1 },
-{"name":" sa276 ",  "size":  24 },
+{"name":" sa276 ",  "size":  21 },
+{}]
+},
+{
+"name": "buruliIBM",
+"children": [
+{"name":" ag350 ",  "size":  347 },
+{}]
+},
+{
+"name": "frealign_v9.exe",
+"children": [
+{"name":" zl23 ",  "size":  320 },
+{}]
+},
+{
+"name": "MathKernel",
+"children": [
+{"name":" lp28 ",  "size":  250 },
 {}]
 },
 {
 "name": "R",
 "children": [
-{"name":" ds299 ",  "size":  3 },
-{"name":" jz177 ",  "size":  1 },
-{"name":" kes21 ",  "size":  5 },
-{"name":" ki47 ",  "size":  11 },
-{"name":" nam13 ",  "size":  63 },
-{"name":" np106 ",  "size":  131 },
-{"name":" np80 ",  "size":  3 },
+{"name":" ao99 ",  "size":  2 },
+{"name":" ds299 ",  "size":  1 },
+{"name":" eas54 ",  "size":  1 },
+{"name":" kes21 ",  "size":  4 },
+{"name":" ki47 ",  "size":  12 },
+{"name":" nam13 ",  "size":  14 },
+{"name":" np106 ",  "size":  191 },
+{"name":" np80 ",  "size":  2 },
+{"name":" oas4 ",  "size":  3 },
+{"name":" yjh5 ",  "size":  1 },
+{}]
+},
+{
+"name": "python",
+"children": [
+{"name":" prs6 ",  "size":  166 },
+{"name":" sm213 ",  "size":  2 },
+{}]
+},
+{
+"name": "hcash",
+"children": [
+{"name":" ss407 ",  "size":  166 },
 {}]
 },
 {
@@ -76,53 +86,36 @@
 {}]
 },
 {
+"name": "bowtie2-align-s",
+"children": [
+{"name":" nnh3 ",  "size":  59 },
+{}]
+},
+{
+"name": "SeqPrep",
+"children": [
+{"name":" sm213 ",  "size":  51 },
+{}]
+},
+{
 "name": "bwa",
 "children": [
-{"name":" el114 ",  "size":  26 },
-{"name":" el116 ",  "size":  51 },
-{"name":" psm13 ",  "size":  13 },
-{}]
-},
-{
-"name": "blastall",
-"children": [
-{"name":" hgh2 ",  "size":  67 },
-{}]
-},
-{
-"name": "admixture",
-"children": [
-{"name":" il41 ",  "size":  43 },
-{}]
-},
-{
-"name": "bowtie2-align",
-"children": [
-{"name":" xw99 ",  "size":  30 },
+{"name":" el114 ",  "size":  31 },
+{"name":" psm13 ",  "size":  7 },
 {}]
 },
 {
 "name": "tabix",
 "children": [
-{"name":" sl279 ",  "size":  14 },
-{}]
-},
-{
-"name": "samtools",
-"children": [
-{"name":" el114 ",  "size":  4 },
-{"name":" el116 ",  "size":  3 },
-{"name":" psm13 ",  "size":  2 },
-{"name":" sm213 ",  "size":  2 },
+{"name":" sl279 ",  "size":  13 },
 {}]
 },
 {
 "name": "perl",
 "children": [
-{"name":" btk4 ",  "size":  1 },
 {"name":" ft42 ",  "size":  1 },
 {"name":" ls67 ",  "size":  1 },
-{"name":" sl279 ",  "size":  8 },
+{"name":" sl279 ",  "size":  7 },
 {}]
 },
 {
@@ -132,71 +125,37 @@
 {}]
 },
 {
-"name": "gmx",
+"name": "samtools",
 "children": [
-{"name":" aks33 ",  "size":  8 },
+{"name":" el114 ",  "size":  2 },
+{"name":" psm13 ",  "size":  1 },
+{"name":" sm213 ",  "size":  2 },
 {}]
 },
 {
-"name": "ldak.4.9.fast",
+"name": "admixture",
 "children": [
-{"name":" gw58 ",  "size":  1 },
-{"name":" np80 ",  "size":  6 },
+{"name":" il41 ",  "size":  4 },
+{}]
+},
+{
+"name": "gzip",
+"children": [
+{"name":" rd140 ",  "size":  2 },
+{"name":" yj12 ",  "size":  1 },
 {}]
 },
 {
 "name": "bedtools",
 "children": [
-{"name":" lp113 ",  "size":  2 },
-{"name":" pp170 ",  "size":  5 },
+{"name":" pp170 ",  "size":  1 },
+{"name":" sm213 ",  "size":  1 },
 {}]
 },
 {
-"name": "tophat_reports",
+"name": "sort",
 "children": [
-{"name":" xw99 ",  "size":  4 },
-{}]
-},
-{
-"name": "annotate.pl",
-"children": [
-{"name":" mz128 ",  "size":  3 },
-{}]
-},
-{
-"name": "stdp",
-"children": [
-{"name":" tm150 ",  "size":  2 },
-{}]
-},
-{
-"name": "pls2fasta",
-"children": [
-{"name":" acr23 ",  "size":  2 },
-{}]
-},
-{
-"name": "fix_map_orderin",
-"children": [
-{"name":" xw99 ",  "size":  2 },
-{}]
-},
-{
-"name": "snpindex",
-"children": [
-{"name":" ms608 ",  "size":  1 },
-{}]
-},
-{
-"name": "smartpca",
-"children": [
-{"name":" il41 ",  "size":  1 },
-{}]
-},
-{
-"name": "sh",
-"children": [
-{"name":" ft42 ",  "size":  1 },
+{"name":" rd140 ",  "size":  1 },
 {}]
 },
 {
@@ -206,21 +165,33 @@
 {}]
 },
 {
-"name": "pseq",
+"name": "md5sum",
 "children": [
-{"name":" dd69 ",  "size":  1 },
+{"name":" mkv6 ",  "size":  1 },
 {}]
 },
 {
-"name": "metamap14.BINAR",
+"name": "ldak.4.9.fast",
 "children": [
-{"name":" yl276 ",  "size":  1 },
+{"name":" gw58 ",  "size":  1 },
 {}]
 },
 {
-"name": "gzip",
+"name": "cut",
 "children": [
-{"name":" xn5 ",  "size":  1 },
+{"name":" rd140 ",  "size":  1 },
+{}]
+},
+{
+"name": "bowtie2-build-s",
+"children": [
+{"name":" el116 ",  "size":  1 },
+{}]
+},
+{
+"name": "bgzip",
+"children": [
+{"name":" sl279 ",  "size":  1 },
 {}]
 },
 {
@@ -232,7 +203,13 @@
 {
 "name": "awk",
 "children": [
-{"name":" eas54 ",  "size":  1 },
+{"name":" sm213 ",  "size":  1 },
+{}]
+},
+{
+"name": "annotate.pl",
+"children": [
+{"name":" mz128 ",  "size":  1 },
 {}]
 },
 {}]
