@@ -4,24 +4,35 @@
 {
 "name": "MathKernel",
 "children": [
-{"name":" lp28 ",  "size":  990 },
+{"name":" lp28 ",  "size":  878 },
 {}]
 },
 {
 "name": "java",
 "children": [
-{"name":" at55 ",  "size":  438 },
+{"name":" at55 ",  "size":  264 },
 {"name":" cmg21 ",  "size":  12 },
+{"name":" el114 ",  "size":  1 },
 {"name":" kmh40 ",  "size":  2 },
 {"name":" mwl10 ",  "size":  4 },
 {"name":" sr45 ",  "size":  4 },
-{"name":" zjw2 ",  "size":  281 },
+{"name":" zjw2 ",  "size":  232 },
 {}]
 },
 {
-"name": "ChromoPainterv2",
+"name": "MATLAB",
 "children": [
-{"name":" prs6 ",  "size":  142 },
+{"name":" blg3 ",  "size":  1 },
+{"name":" cs126 ",  "size":  33 },
+{"name":" eb141 ",  "size":  11 },
+{"name":" jmh12 ",  "size":  433 },
+{"name":" sa276 ",  "size":  20 },
+{}]
+},
+{
+"name": "rnnlib",
+"children": [
+{"name":" ma257 ",  "size":  130 },
 {}]
 },
 {
@@ -37,69 +48,48 @@
 {}]
 },
 {
-"name": "rnnlib",
-"children": [
-{"name":" ma257 ",  "size":  124 },
-{}]
-},
-{
-"name": "novoalign",
-"children": [
-{"name":" kh149 ",  "size":  105 },
-{}]
-},
-{
 "name": "python",
 "children": [
 {"name":" bmg16 ",  "size":  20 },
-{"name":" pj53 ",  "size":  2 },
-{"name":" sm213 ",  "size":  81 },
+{"name":" kmh40 ",  "size":  2 },
+{"name":" sgf2 ",  "size":  1 },
+{"name":" sm213 ",  "size":  92 },
 {}]
 },
 {
 "name": "bwa",
 "children": [
-{"name":" el114 ",  "size":  94 },
+{"name":" el114 ",  "size":  87 },
 {"name":" psm13 ",  "size":  1 },
+{"name":" rx12 ",  "size":  1 },
+{}]
+},
+{
+"name": "ChromoPainterv2",
+"children": [
+{"name":" prs6 ",  "size":  59 },
 {}]
 },
 {
 "name": "bowtie2-align-s",
 "children": [
-{"name":" djp16 ",  "size":  12 },
-{"name":" el116 ",  "size":  63 },
-{}]
-},
-{
-"name": "MATLAB",
-"children": [
-{"name":" blg3 ",  "size":  2 },
-{"name":" cs126 ",  "size":  32 },
-{"name":" eb141 ",  "size":  14 },
-{"name":" sa276 ",  "size":  23 },
+{"name":" el116 ",  "size":  44 },
 {}]
 },
 {
 "name": "R",
 "children": [
-{"name":" chm12 ",  "size":  47 },
-{"name":" ki47 ",  "size":  7 },
+{"name":" chm12 ",  "size":  18 },
+{"name":" ki47 ",  "size":  8 },
 {"name":" rx12 ",  "size":  1 },
-{"name":" yj66 ",  "size":  2 },
-{}]
-},
-{
-"name": "perl",
-"children": [
-{"name":" ah283 ",  "size":  2 },
-{"name":" rd140 ",  "size":  32 },
-{"name":" sm213 ",  "size":  1 },
+{"name":" yj66 ",  "size":  1 },
+{"name":" yx77 ",  "size":  5 },
 {}]
 },
 {
 "name": "shapeit",
 "children": [
-{"name":" pl88 ",  "size":  20 },
+{"name":" pl88 ",  "size":  27 },
 {}]
 },
 {
@@ -109,45 +99,46 @@
 {}]
 },
 {
-"name": "mapsplice_multi",
+"name": "perl",
 "children": [
-{"name":" ki47 ",  "size":  14 },
-{}]
-},
-{
-"name": "stdp",
-"children": [
-{"name":" tm150 ",  "size":  6 },
-{}]
-},
-{
-"name": "blat",
-"children": [
-{"name":" eas67 ",  "size":  5 },
-{}]
-},
-{
-"name": "spamo",
-"children": [
-{"name":" dsd9 ",  "size":  3 },
-{}]
-},
-{
-"name": "samtools",
-"children": [
-{"name":" el114 ",  "size":  3 },
-{}]
-},
-{
-"name": "registerSliceTo",
-"children": [
-{"name":" sr235 ",  "size":  3 },
+{"name":" rd140 ",  "size":  17 },
+{"name":" sm213 ",  "size":  1 },
 {}]
 },
 {
 "name": "pylapels",
 "children": [
-{"name":" el116 ",  "size":  2 },
+{"name":" el116 ",  "size":  13 },
+{}]
+},
+{
+"name": "gcta64",
+"children": [
+{"name":" lp71 ",  "size":  11 },
+{}]
+},
+{
+"name": "mapsplice_multi",
+"children": [
+{"name":" ki47 ",  "size":  8 },
+{}]
+},
+{
+"name": "stdp",
+"children": [
+{"name":" tm150 ",  "size":  3 },
+{}]
+},
+{
+"name": "fimo",
+"children": [
+{"name":" dsd9 ",  "size":  2 },
+{}]
+},
+{
+"name": "tblastn",
+"children": [
+{"name":" ec191 ",  "size":  1 },
 {}]
 },
 {
@@ -157,15 +148,15 @@
 {}]
 },
 {
-"name": "ldak.4.9.fast",
+"name": "samtools",
 "children": [
-{"name":" gw58 ",  "size":  1 },
+{"name":" el114 ",  "size":  1 },
 {}]
 },
 {
-"name": "gzip",
+"name": "ldak.4.9.fast",
 "children": [
-{"name":" ki47 ",  "size":  1 },
+{"name":" gw58 ",  "size":  1 },
 {}]
 },
 {
@@ -175,9 +166,9 @@
 {}]
 },
 {
-"name": "awk",
+"name": "blat",
 "children": [
-{"name":" pp170 ",  "size":  1 },
+{"name":" eas67 ",  "size":  1 },
 {}]
 },
 {}]
