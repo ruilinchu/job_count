@@ -2,44 +2,73 @@
 "name": "flare",
  "children": [
 {
-"name": "python",
+"name": "R",
 "children": [
-{"name":" bmg16 ",  "size":  80 },
-{"name":" ep129 ",  "size":  1 },
-{"name":" xl168 ",  "size":  1079 },
-{}]
-},
-{
-"name": "rnnlib",
-"children": [
-{"name":" ma257 ",  "size":  805 },
-{}]
-},
-{
-"name": "java",
-"children": [
-{"name":" at55 ",  "size":  120 },
-{"name":" pp170 ",  "size":  12 },
-{"name":" sl325 ",  "size":  9 },
-{"name":" srd4 ",  "size":  1 },
-{"name":" zjw2 ",  "size":  176 },
+{"name":" ab455 ",  "size":  8 },
+{"name":" bw101 ",  "size":  63 },
+{"name":" chm12 ",  "size":  467 },
+{"name":" im60 ",  "size":  19 },
+{"name":" jas64 ",  "size":  690 },
+{"name":" kes21 ",  "size":  2 },
+{"name":" ki47 ",  "size":  8 },
+{"name":" mg218 ",  "size":  2 },
+{"name":" nz22 ",  "size":  1 },
+{"name":" sl279 ",  "size":  10 },
+{"name":" yjh5 ",  "size":  1 },
 {}]
 },
 {
 "name": "MATLAB",
 "children": [
-{"name":" car54 ",  "size":  43 },
-{"name":" cs126 ",  "size":  47 },
-{"name":" eb141 ",  "size":  10 },
-{"name":" jmh12 ",  "size":  164 },
-{"name":" sa276 ",  "size":  23 },
-{"name":" yy118 ",  "size":  16 },
+{"name":" blg3 ",  "size":  7 },
+{"name":" car54 ",  "size":  17 },
+{"name":" cs126 ",  "size":  30 },
+{"name":" eb141 ",  "size":  14 },
+{"name":" jmh12 ",  "size":  482 },
+{"name":" sa276 ",  "size":  22 },
+{}]
+},
+{
+"name": "rnnlib",
+"children": [
+{"name":" ma257 ",  "size":  566 },
+{}]
+},
+{
+"name": "python",
+"children": [
+{"name":" bmg16 ",  "size":  80 },
+{"name":" ep129 ",  "size":  1 },
+{"name":" hf44 ",  "size":  1 },
+{"name":" pj53 ",  "size":  1 },
+{"name":" xl168 ",  "size":  173 },
+{}]
+},
+{
+"name": "java",
+"children": [
+{"name":" at55 ",  "size":  114 },
+{"name":" kih1 ",  "size":  4 },
+{"name":" mej8 ",  "size":  1 },
+{"name":" sl279 ",  "size":  2 },
+{"name":" sl325 ",  "size":  14 },
+{"name":" srd4 ",  "size":  1 },
+{"name":" zjw2 ",  "size":  120 },
 {}]
 },
 {
 "name": "mapsplice_multi",
 "children": [
-{"name":" ki47 ",  "size":  248 },
+{"name":" ki47 ",  "size":  164 },
+{}]
+},
+{
+"name": "bowtie2-align-s",
+"children": [
+{"name":" as695 ",  "size":  5 },
+{"name":" dsd9 ",  "size":  3 },
+{"name":" el116 ",  "size":  143 },
+{"name":" ht75 ",  "size":  4 },
 {}]
 },
 {
@@ -51,7 +80,7 @@
 {
 "name": "bwa",
 "children": [
-{"name":" el114 ",  "size":  64 },
+{"name":" el114 ",  "size":  75 },
 {"name":" psm13 ",  "size":  1 },
 {}]
 },
@@ -62,82 +91,66 @@
 {}]
 },
 {
-"name": "hcash",
-"children": [
-{"name":" ss407 ",  "size":  63 },
-{}]
-},
-{
 "name": "shapeit",
 "children": [
-{"name":" pl88 ",  "size":  27 },
-{}]
-},
-{
-"name": "bowtie2-align-s",
-"children": [
-{"name":" el116 ",  "size":  22 },
-{}]
-},
-{
-"name": "bowtie2-align",
-"children": [
-{"name":" sl325 ",  "size":  19 },
+{"name":" pl88 ",  "size":  26 },
 {}]
 },
 {
 "name": "segment_juncs",
 "children": [
 {"name":" ah283 ",  "size":  17 },
-{"name":" nk174 ",  "size":  1 },
-{}]
-},
-{
-"name": "R",
-"children": [
-{"name":" bw101 ",  "size":  1 },
-{"name":" ki47 ",  "size":  8 },
-{"name":" nz22 ",  "size":  2 },
-{"name":" yez1 ",  "size":  2 },
-{}]
-},
-{
-"name": "coalescent",
-"children": [
-{"name":" pp170 ",  "size":  12 },
 {}]
 },
 {
 "name": "samtools",
 "children": [
-{"name":" el114 ",  "size":  3 },
-{"name":" ki47 ",  "size":  2 },
-{"name":" rx12 ",  "size":  1 },
-{"name":" sl325 ",  "size":  4 },
+{"name":" el114 ",  "size":  1 },
+{"name":" el116 ",  "size":  10 },
+{"name":" ki47 ",  "size":  3 },
+{"name":" sl325 ",  "size":  2 },
 {}]
 },
 {
-"name": "plm",
+"name": "bowtie",
 "children": [
-{"name":" tah11 ",  "size":  6 },
+{"name":" has15 ",  "size":  8 },
 {}]
 },
 {
-"name": "warp3",
+"name": "macs2",
 "children": [
-{"name":" ctb12 ",  "size":  2 },
+{"name":" el116 ",  "size":  6 },
 {}]
 },
 {
-"name": "stdp",
+"name": "bedtools",
 "children": [
-{"name":" tm150 ",  "size":  2 },
+{"name":" ccb15 ",  "size":  4 },
+{}]
+},
+{
+"name": "align12",
+"children": [
+{"name":" wft2 ",  "size":  4 },
 {}]
 },
 {
 "name": "qpGraph",
 "children": [
-{"name":" ml275 ",  "size":  2 },
+{"name":" ml275 ",  "size":  3 },
+{}]
+},
+{
+"name": "STAR",
+"children": [
+{"name":" jmg38 ",  "size":  2 },
+{}]
+},
+{
+"name": "rsync",
+"children": [
+{"name":" ld32 ",  "size":  2 },
 {}]
 },
 {
@@ -147,45 +160,51 @@
 {}]
 },
 {
-"name": "palinear",
+"name": "perl",
 "children": [
-{"name":" xl168 ",  "size":  2 },
+{"name":" mkv6 ",  "size":  2 },
 {}]
 },
 {
-"name": "LTMLM",
+"name": "qpDstat",
 "children": [
-{"name":" tjh20 ",  "size":  2 },
+{"name":" ep129 ",  "size":  1 },
+{}]
+},
+{
+"name": "pulldown",
+"children": [
+{"name":" qf6 ",  "size":  1 },
+{}]
+},
+{
+"name": "pseq",
+"children": [
+{"name":" ah249 ",  "size":  1 },
+{}]
+},
+{
+"name": "newsamtools",
+"children": [
+{"name":" qf6 ",  "size":  1 },
+{}]
+},
+{
+"name": "gzip",
+"children": [
+{"name":" has15 ",  "size":  1 },
 {}]
 },
 {
 "name": "grep",
 "children": [
-{"name":" sl325 ",  "size":  2 },
-{}]
-},
-{
-"name": "snpindex",
-"children": [
-{"name":" ms608 ",  "size":  1 },
-{}]
-},
-{
-"name": "newsam2junc",
-"children": [
-{"name":" ki47 ",  "size":  1 },
-{}]
-},
-{
-"name": "hom_to_ped",
-"children": [
-{"name":" pp170 ",  "size":  1 },
+{"name":" sl325 ",  "size":  1 },
 {}]
 },
 {
 "name": "fix_map_orderin",
 "children": [
-{"name":" sl325 ",  "size":  1 },
+{"name":" ht75 ",  "size":  1 },
 {}]
 },
 {
@@ -201,21 +220,39 @@
 {}]
 },
 {
-"name": "bowtie2-build",
-"children": [
-{"name":" sl325 ",  "size":  1 },
-{}]
-},
-{
 "name": "blat",
 "children": [
 {"name":" eas67 ",  "size":  1 },
 {}]
 },
 {
-"name": "bam_merge",
+"name": "blastall",
 "children": [
-{"name":" sl325 ",  "size":  1 },
+{"name":" hgh2 ",  "size":  1 },
+{}]
+},
+{
+"name": "bcbio_nextgen.p",
+"children": [
+{"name":" as695 ",  "size":  1 },
+{}]
+},
+{
+"name": "applymap4",
+"children": [
+{"name":" ctb12 ",  "size":  1 },
+{}]
+},
+{
+"name": "annotate.pl",
+"children": [
+{"name":" mz128 ",  "size":  1 },
+{}]
+},
+{
+"name": "alignment_handl",
+"children": [
+{"name":" ki47 ",  "size":  1 },
 {}]
 },
 {}]
