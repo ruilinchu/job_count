@@ -4,126 +4,124 @@
 {
 "name": "hcash",
 "children": [
-{"name":" eab42 ",  "size":  420 },
-{"name":" nlg3 ",  "size":  372 },
-{"name":" ss407 ",  "size":  404 },
-{}]
-},
-{
-"name": "rnnlib",
-"children": [
-{"name":" ma257 ",  "size":  504 },
+{"name":" eab42 ",  "size":  596 },
+{"name":" ss407 ",  "size":  612 },
 {}]
 },
 {
 "name": "R",
 "children": [
 {"name":" af161 ",  "size":  6 },
-{"name":" bm111 ",  "size":  1 },
-{"name":" el116 ",  "size":  2 },
-{"name":" jas64 ",  "size":  412 },
+{"name":" chm12 ",  "size":  19 },
+{"name":" jas64 ",  "size":  558 },
 {"name":" ki47 ",  "size":  12 },
 {"name":" mt177 ",  "size":  2 },
-{"name":" sh269 ",  "size":  19 },
-{"name":" sl279 ",  "size":  1 },
-{"name":" xd24 ",  "size":  12 },
+{"name":" sh269 ",  "size":  1 },
+{}]
+},
+{
+"name": "rnnlib",
+"children": [
+{"name":" ma257 ",  "size":  489 },
 {}]
 },
 {
 "name": "java",
 "children": [
-{"name":" at55 ",  "size":  310 },
+{"name":" at55 ",  "size":  266 },
 {"name":" el114 ",  "size":  1 },
-{"name":" pp170 ",  "size":  1 },
-{}]
-},
-{
-"name": "ChromoPainterv2",
-"children": [
-{"name":" prs6 ",  "size":  288 },
-{}]
-},
-{
-"name": "palinear",
-"children": [
-{"name":" xl168 ",  "size":  180 },
-{}]
-},
-{
-"name": "step2",
-"children": [
-{"name":" kmn7 ",  "size":  117 },
-{}]
-},
-{
-"name": "MATLAB",
-"children": [
-{"name":" 92241 ",  "size":  12 },
-{"name":" aa273 ",  "size":  1 },
-{"name":" asm27 ",  "size":  2 },
-{"name":" cs126 ",  "size":  5 },
-{"name":" eb141 ",  "size":  8 },
-{"name":" kmn7 ",  "size":  17 },
-{"name":" ml275 ",  "size":  1 },
-{"name":" rf89 ",  "size":  8 },
-{"name":" sa276 ",  "size":  27 },
-{"name":" tah11 ",  "size":  34 },
-{}]
-},
-{
-"name": "MathKernel",
-"children": [
-{"name":" ma257 ",  "size":  94 },
+{"name":" sm213 ",  "size":  2 },
 {}]
 },
 {
 "name": "python",
 "children": [
-{"name":" bmg16 ",  "size":  9 },
-{"name":" el116 ",  "size":  7 },
-{"name":" hf44 ",  "size":  33 },
-{"name":" sm213 ",  "size":  1 },
-{"name":" xl168 ",  "size":  2 },
+{"name":" hf44 ",  "size":  23 },
+{"name":" sm213 ",  "size":  7 },
+{"name":" xl168 ",  "size":  162 },
 {}]
 },
 {
-"name": "bowtie2-align",
+"name": "palinear",
 "children": [
-{"name":" ah283 ",  "size":  40 },
-{"name":" eas54 ",  "size":  8 },
+{"name":" xl168 ",  "size":  135 },
 {}]
 },
 {
-"name": "cdiv2",
+"name": "step2",
 "children": [
-{"name":" np29 ",  "size":  35 },
+{"name":" kmn7 ",  "size":  121 },
+{}]
+},
+{
+"name": "MathKernel",
+"children": [
+{"name":" ma257 ",  "size":  106 },
+{}]
+},
+{
+"name": "MATLAB",
+"children": [
+{"name":" 92241 ",  "size":  10 },
+{"name":" aa273 ",  "size":  1 },
+{"name":" cs126 ",  "size":  5 },
+{"name":" eb141 ",  "size":  11 },
+{"name":" kmn7 ",  "size":  7 },
+{"name":" lys6 ",  "size":  2 },
+{"name":" mh168 ",  "size":  1 },
+{"name":" rf89 ",  "size":  1 },
+{"name":" sa276 ",  "size":  34 },
+{"name":" tah11 ",  "size":  31 },
+{}]
+},
+{
+"name": "ChromoPainterv2",
+"children": [
+{"name":" prs6 ",  "size":  69 },
 {}]
 },
 {
 "name": "jackhmmer",
 "children": [
-{"name":" lys6 ",  "size":  20 },
-{"name":" rf89 ",  "size":  9 },
-{"name":" sh269 ",  "size":  4 },
+{"name":" cs281 ",  "size":  21 },
+{"name":" rf89 ",  "size":  32 },
+{"name":" sh269 ",  "size":  3 },
 {}]
 },
 {
 "name": "bwa",
 "children": [
-{"name":" el114 ",  "size":  23 },
-{"name":" psm13 ",  "size":  5 },
+{"name":" el114 ",  "size":  28 },
+{"name":" psm13 ",  "size":  9 },
+{"name":" sm213 ",  "size":  11 },
+{}]
+},
+{
+"name": "bowtie2-align",
+"children": [
+{"name":" ah283 ",  "size":  32 },
+{"name":" eas54 ",  "size":  4 },
+{}]
+},
+{
+"name": "cdiv2",
+"children": [
+{"name":" np29 ",  "size":  33 },
+{}]
+},
+{
+"name": "samtools",
+"children": [
+{"name":" el114 ",  "size":  10 },
+{"name":" el116 ",  "size":  2 },
+{"name":" ep129 ",  "size":  1 },
+{"name":" sm213 ",  "size":  2 },
 {}]
 },
 {
 "name": "shapeit",
 "children": [
-{"name":" pl88 ",  "size":  17 },
-{}]
-},
-{
-"name": "cupSegm",
-"children": [
-{"name":" ff49 ",  "size":  16 },
+{"name":" pl88 ",  "size":  14 },
 {}]
 },
 {
@@ -133,37 +131,39 @@
 {}]
 },
 {
-"name": "samtools",
+"name": "bowtie2-align-s",
 "children": [
-{"name":" el114 ",  "size":  8 },
-{"name":" ep129 ",  "size":  2 },
-{"name":" psm13 ",  "size":  1 },
+{"name":" el116 ",  "size":  12 },
+{}]
+},
+{
+"name": "SeqPrep",
+"children": [
+{"name":" sm213 ",  "size":  8 },
 {}]
 },
 {
 "name": "stdp",
 "children": [
-{"name":" tm150 ",  "size":  7 },
+{"name":" tm150 ",  "size":  6 },
 {}]
 },
 {
-"name": "gsnap",
+"name": "segment_juncs",
 "children": [
-{"name":" ek159 ",  "size":  7 },
+{"name":" ah283 ",  "size":  4 },
 {}]
 },
 {
-"name": "bowtie2-align-s",
+"name": "gzip",
 "children": [
-{"name":" bl126 ",  "size":  3 },
 {"name":" el116 ",  "size":  4 },
 {}]
 },
 {
-"name": "perl",
+"name": "compute_hamming",
 "children": [
-{"name":" btk4 ",  "size":  2 },
-{"name":" xz133 ",  "size":  2 },
+{"name":" lys6 ",  "size":  4 },
 {}]
 },
 {
@@ -173,15 +173,9 @@
 {}]
 },
 {
-"name": "segment_juncs",
+"name": "msHOT",
 "children": [
-{"name":" ah283 ",  "size":  3 },
-{}]
-},
-{
-"name": "pylapels",
-"children": [
-{"name":" el116 ",  "size":  2 },
+{"name":" ml275 ",  "size":  2 },
 {}]
 },
 {
@@ -191,15 +185,9 @@
 {}]
 },
 {
-"name": "snpindex",
+"name": "bedtools",
 "children": [
-{"name":" ms608 ",  "size":  1 },
-{}]
-},
-{
-"name": "SeqPrep",
-"children": [
-{"name":" sm213 ",  "size":  1 },
+{"name":" sm213 ",  "size":  2 },
 {}]
 },
 {
@@ -209,21 +197,21 @@
 {}]
 },
 {
-"name": "plinkOld",
+"name": "perl",
 "children": [
-{"name":" il41 ",  "size":  1 },
-{}]
-},
-{
-"name": "MIPSFSimulation",
-"children": [
-{"name":" yr39 ",  "size":  1 },
+{"name":" sm213 ",  "size":  1 },
 {}]
 },
 {
 "name": "memcheck-amd64-",
 "children": [
 {"name":" mz128 ",  "size":  1 },
+{}]
+},
+{
+"name": "cns_solve",
+"children": [
+{"name":" rf89 ",  "size":  1 },
 {}]
 },
 {
@@ -236,12 +224,6 @@
 "name": "blastp",
 "children": [
 {"name":" ak150 ",  "size":  1 },
-{}]
-},
-{
-"name": "bedtools",
-"children": [
-{"name":" kmh40 ",  "size":  1 },
 {}]
 },
 {}]
