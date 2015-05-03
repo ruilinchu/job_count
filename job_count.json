@@ -2,16 +2,10 @@
 "name": "flare",
  "children": [
 {
-"name": "hcash",
-"children": [
-{"name":" kl208 ",  "size":  1193 },
-{}]
-},
-{
 "name": "java",
 "children": [
-{"name":" abg7 ",  "size":  2 },
-{"name":" at55 ",  "size":  640 },
+{"name":" ag284 ",  "size":  46 },
+{"name":" at55 ",  "size":  811 },
 {"name":" el114 ",  "size":  1 },
 {"name":" mh168 ",  "size":  1 },
 {"name":" xl168 ",  "size":  1 },
@@ -20,25 +14,27 @@
 {
 "name": "rnnlib",
 "children": [
-{"name":" ma257 ",  "size":  416 },
+{"name":" ma257 ",  "size":  403 },
 {}]
 },
 {
 "name": "MATLAB",
 "children": [
-{"name":" cs126 ",  "size":  49 },
+{"name":" 23916 ",  "size":  2 },
+{"name":" cs126 ",  "size":  47 },
 {"name":" eb141 ",  "size":  5 },
-{"name":" jsb38 ",  "size":  4 },
-{"name":" ml275 ",  "size":  30 },
+{"name":" jsb38 ",  "size":  78 },
+{"name":" ml275 ",  "size":  27 },
 {"name":" rf89 ",  "size":  14 },
-{"name":" sa276 ",  "size":  176 },
+{"name":" sa276 ",  "size":  175 },
 {"name":" sh269 ",  "size":  18 },
+{"name":" slw28 ",  "size":  5 },
 {}]
 },
 {
-"name": "simulate",
+"name": "hcash",
 "children": [
-{"name":" mw38 ",  "size":  133 },
+{"name":" kl208 ",  "size":  192 },
 {}]
 },
 {
@@ -48,29 +44,64 @@
 {}]
 },
 {
+"name": "simulate",
+"children": [
+{"name":" mw38 ",  "size":  96 },
+{}]
+},
+{
+"name": "awk",
+"children": [
+{"name":" ag284 ",  "size":  89 },
+{}]
+},
+{
 "name": "python",
 "children": [
 {"name":" cz32 ",  "size":  1 },
 {"name":" jab69 ",  "size":  80 },
+{"name":" lg140 ",  "size":  1 },
 {}]
 },
 {
 "name": "jackhmmer",
 "children": [
-{"name":" ak440 ",  "size":  18 },
-{"name":" rf89 ",  "size":  13 },
+{"name":" rf89 ",  "size":  40 },
+{}]
+},
+{
+"name": "hom_to_ped",
+"children": [
+{"name":" ag284 ",  "size":  35 },
 {}]
 },
 {
 "name": "shapeit",
 "children": [
-{"name":" mrp1 ",  "size":  25 },
+{"name":" mrp1 ",  "size":  26 },
 {}]
 },
 {
 "name": "threepclr",
 "children": [
-{"name":" fr50 ",  "size":  20 },
+{"name":" fr50 ",  "size":  22 },
+{}]
+},
+{
+"name": "R",
+"children": [
+{"name":" chm12 ",  "size":  3 },
+{"name":" ft42 ",  "size":  1 },
+{"name":" hu2 ",  "size":  2 },
+{"name":" jl517 ",  "size":  4 },
+{"name":" ki47 ",  "size":  6 },
+{"name":" si64 ",  "size":  4 },
+{}]
+},
+{
+"name": "bwa",
+"children": [
+{"name":" el114 ",  "size":  20 },
 {}]
 },
 {
@@ -80,37 +111,21 @@
 {}]
 },
 {
-"name": "bwa",
+"name": "coalescent",
 "children": [
-{"name":" el114 ",  "size":  18 },
-{}]
-},
-{
-"name": "bowtie",
-"children": [
-{"name":" abg7 ",  "size":  18 },
+{"name":" ag284 ",  "size":  16 },
 {}]
 },
 {
 "name": "admixture",
 "children": [
-{"name":" il41 ",  "size":  17 },
+{"name":" il41 ",  "size":  14 },
 {}]
 },
 {
-"name": "R",
+"name": "ldak.4.9.fast",
 "children": [
-{"name":" chm12 ",  "size":  3 },
-{"name":" hu2 ",  "size":  2 },
-{"name":" jl517 ",  "size":  1 },
-{"name":" ki47 ",  "size":  6 },
-{"name":" si64 ",  "size":  3 },
-{}]
-},
-{
-"name": "qp3Pop",
-"children": [
-{"name":" il41 ",  "size":  15 },
+{"name":" np80 ",  "size":  11 },
 {}]
 },
 {
@@ -120,15 +135,9 @@
 {}]
 },
 {
-"name": "merlin",
+"name": "plink",
 "children": [
-{"name":" bf13 ",  "size":  10 },
-{}]
-},
-{
-"name": "pylapels",
-"children": [
-{"name":" el116 ",  "size":  8 },
+{"name":" ag284 ",  "size":  10 },
 {}]
 },
 {
@@ -138,45 +147,33 @@
 {}]
 },
 {
-"name": "cuffdiff",
+"name": "cufflinks",
 "children": [
-{"name":" jy157 ",  "size":  4 },
+{"name":" ars52 ",  "size":  4 },
+{}]
+},
+{
+"name": "tabix",
+"children": [
+{"name":" sl279 ",  "size":  2 },
+{}]
+},
+{
+"name": "samtools",
+"children": [
+{"name":" el114 ",  "size":  2 },
+{}]
+},
+{
+"name": "merlin",
+"children": [
+{"name":" bf13 ",  "size":  2 },
 {}]
 },
 {
 "name": "meme.bin",
 "children": [
 {"name":" ik79 ",  "size":  2 },
-{}]
-},
-{
-"name": "clustalo-1.2.0-",
-"children": [
-{"name":" ak440 ",  "size":  2 },
-{}]
-},
-{
-"name": "blastpgp",
-"children": [
-{"name":" rf89 ",  "size":  2 },
-{}]
-},
-{
-"name": "samtools",
-"children": [
-{"name":" el114 ",  "size":  1 },
-{}]
-},
-{
-"name": "NucleiDetector",
-"children": [
-{"name":" hi41 ",  "size":  1 },
-{}]
-},
-{
-"name": "mothur",
-"children": [
-{"name":" pc43 ",  "size":  1 },
 {}]
 },
 {
@@ -201,6 +198,12 @@
 "name": "clustalw",
 "children": [
 {"name":" mrf7 ",  "size":  1 },
+{}]
+},
+{
+"name": "blastpgp",
+"children": [
+{"name":" rf89 ",  "size":  1 },
 {}]
 },
 {}]
