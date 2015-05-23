@@ -4,59 +4,68 @@
 {
 "name": "R",
 "children": [
-{"name":" chm12 ",  "size":  430 },
-{"name":" hu2 ",  "size":  3 },
+{"name":" ccb15 ",  "size":  12 },
+{"name":" chm12 ",  "size":  28 },
 {"name":" jcj15 ",  "size":  1 },
-{"name":" jl517 ",  "size":  1 },
 {"name":" jp109 ",  "size":  1 },
 {"name":" si64 ",  "size":  2 },
-{"name":" sl325 ",  "size":  1 },
-{"name":" xd24 ",  "size":  129 },
-{"name":" xw75 ",  "size":  331 },
+{"name":" xd24 ",  "size":  201 },
+{"name":" xw75 ",  "size":  804 },
 {}]
 },
 {
 "name": "MATLAB",
 "children": [
-{"name":" ag300 ",  "size":  12 },
-{"name":" anb12 ",  "size":  7 },
+{"name":" ag300 ",  "size":  14 },
 {"name":" eb141 ",  "size":  1 },
-{"name":" jsb38 ",  "size":  496 },
+{"name":" jsb38 ",  "size":  627 },
 {"name":" kih1 ",  "size":  27 },
-{"name":" ml275 ",  "size":  21 },
-{"name":" sa276 ",  "size":  124 },
-{}]
-},
-{
-"name": "python",
-"children": [
-{"name":" ccb15 ",  "size":  25 },
-{"name":" ep129 ",  "size":  1 },
-{"name":" has15 ",  "size":  5 },
-{"name":" hf44 ",  "size":  12 },
-{"name":" jab69 ",  "size":  457 },
-{"name":" lg140 ",  "size":  6 },
+{"name":" ml275 ",  "size":  23 },
+{"name":" sa276 ",  "size":  123 },
+{"name":" yy118 ",  "size":  18 },
 {}]
 },
 {
 "name": "simulate",
 "children": [
-{"name":" mw38 ",  "size":  462 },
+{"name":" mw38 ",  "size":  466 },
+{}]
+},
+{
+"name": "python",
+"children": [
+{"name":" ep129 ",  "size":  1 },
+{"name":" jab69 ",  "size":  260 },
+{"name":" lg140 ",  "size":  1 },
 {}]
 },
 {
 "name": "rnnlib",
 "children": [
-{"name":" ma257 ",  "size":  251 },
+{"name":" ma257 ",  "size":  252 },
 {}]
 },
 {
 "name": "java",
 "children": [
-{"name":" aap86 ",  "size":  62 },
+{"name":" aap86 ",  "size":  33 },
 {"name":" kmh40 ",  "size":  1 },
-{"name":" mwl10 ",  "size":  72 },
-{"name":" uma2 ",  "size":  2 },
+{"name":" mwl10 ",  "size":  32 },
+{"name":" sl279 ",  "size":  109 },
+{}]
+},
+{
+"name": "mantra-bin",
+"children": [
+{"name":" cr136 ",  "size":  134 },
+{}]
+},
+{
+"name": "samtools",
+"children": [
+{"name":" ep129 ",  "size":  8 },
+{"name":" jcj15 ",  "size":  1 },
+{"name":" sl279 ",  "size":  116 },
 {}]
 },
 {
@@ -66,79 +75,41 @@
 {}]
 },
 {
-"name": "STAR",
-"children": [
-{"name":" ccb15 ",  "size":  44 },
-{}]
-},
-{
 "name": "meme.bin",
 "children": [
 {"name":" ik79 ",  "size":  1 },
-{"name":" qx15 ",  "size":  42 },
-{}]
-},
-{
-"name": "samtools",
-"children": [
-{"name":" ep129 ",  "size":  11 },
-{"name":" sl279 ",  "size":  24 },
-{}]
-},
-{
-"name": "bowtie-align-s",
-"children": [
-{"name":" bl126 ",  "size":  7 },
-{"name":" jcj15 ",  "size":  15 },
+{"name":" qx15 ",  "size":  35 },
 {}]
 },
 {
 "name": "bgzip",
 "children": [
-{"name":" sl279 ",  "size":  19 },
+{"name":" sl279 ",  "size":  23 },
 {}]
 },
 {
-"name": "cufflinks",
+"name": "spider_linux_mp",
 "children": [
-{"name":" ft42 ",  "size":  12 },
+{"name":" yl273 ",  "size":  21 },
 {}]
 },
 {
-"name": "featureCounts",
+"name": "bwa",
 "children": [
-{"name":" ccb15 ",  "size":  10 },
+{"name":" at55 ",  "size":  2 },
+{"name":" el114 ",  "size":  13 },
 {}]
 },
 {
-"name": "countreads3.pl",
+"name": "cuffdiff",
 "children": [
-{"name":" jmg38 ",  "size":  10 },
+{"name":" ft42 ",  "size":  10 },
 {}]
 },
 {
-"name": "awk",
+"name": "shapeit",
 "children": [
-{"name":" ccb15 ",  "size":  1 },
-{"name":" ep129 ",  "size":  8 },
-{}]
-},
-{
-"name": "stdp",
-"children": [
-{"name":" tm150 ",  "size":  8 },
-{}]
-},
-{
-"name": "MathKernel",
-"children": [
-{"name":" ma257 ",  "size":  8 },
-{}]
-},
-{
-"name": "bowtie",
-"children": [
-{"name":" ah283 ",  "size":  8 },
+{"name":" mrp1 ",  "size":  8 },
 {}]
 },
 {
@@ -148,22 +119,27 @@
 {}]
 },
 {
+"name": "stdp",
+"children": [
+{"name":" tm150 ",  "size":  7 },
+{}]
+},
+{
+"name": "MathKernel",
+"children": [
+{"name":" ma257 ",  "size":  7 },
+{}]
+},
+{
 "name": "bedtools",
 "children": [
-{"name":" ccb15 ",  "size":  3 },
-{"name":" sl279 ",  "size":  5 },
+{"name":" sl279 ",  "size":  7 },
 {}]
 },
 {
 "name": "vcfutils.pl",
 "children": [
-{"name":" ep129 ",  "size":  7 },
-{}]
-},
-{
-"name": "spider_linux_mp",
-"children": [
-{"name":" yl273 ",  "size":  7 },
+{"name":" ep129 ",  "size":  6 },
 {}]
 },
 {
@@ -173,41 +149,15 @@
 {}]
 },
 {
-"name": "gzip",
-"children": [
-{"name":" ah283 ",  "size":  1 },
-{"name":" ccb15 ",  "size":  4 },
-{}]
-},
-{
-"name": "bwa",
-"children": [
-{"name":" at55 ",  "size":  2 },
-{"name":" el114 ",  "size":  3 },
-{}]
-},
-{
-"name": "shapeit",
-"children": [
-{"name":" mrp1 ",  "size":  4 },
-{}]
-},
-{
-"name": "cuffdiff",
+"name": "prep_reads",
 "children": [
 {"name":" ft42 ",  "size":  4 },
 {}]
 },
 {
-"name": "novoalign",
+"name": "awk",
 "children": [
-{"name":" kmh40 ",  "size":  3 },
-{}]
-},
-{
-"name": "jackhmmer",
-"children": [
-{"name":" dsm1 ",  "size":  3 },
+{"name":" ag284 ",  "size":  3 },
 {}]
 },
 {
@@ -217,21 +167,21 @@
 {}]
 },
 {
-"name": "Pair_estimate_c",
+"name": "samtools0.1.18",
 "children": [
-{"name":" ah283 ",  "size":  2 },
+{"name":" el114 ",  "size":  2 },
 {}]
 },
 {
-"name": "merlin",
+"name": "meta-merlin-off",
 "children": [
-{"name":" kes21 ",  "size":  2 },
+{"name":" jh316 ",  "size":  2 },
 {}]
 },
 {
-"name": "mantra-bin",
+"name": "jackhmmer",
 "children": [
-{"name":" cr136 ",  "size":  2 },
+{"name":" sh269 ",  "size":  2 },
 {}]
 },
 {
@@ -247,9 +197,15 @@
 {}]
 },
 {
-"name": "tophat_reports",
+"name": "vim",
 "children": [
-{"name":" is87 ",  "size":  1 },
+{"name":" sl279 ",  "size":  1 },
+{}]
+},
+{
+"name": "sort",
+"children": [
+{"name":" bl126 ",  "size":  1 },
 {}]
 },
 {
@@ -271,15 +227,27 @@
 {}]
 },
 {
-"name": "qp4wave2",
+"name": "Pair_estimate_c",
 "children": [
-{"name":" prs6 ",  "size":  1 },
+{"name":" ah283 ",  "size":  1 },
 {}]
 },
 {
-"name": "LTMLM",
+"name": "novoalign",
 "children": [
-{"name":" tjh20 ",  "size":  1 },
+{"name":" kmh40 ",  "size":  1 },
+{}]
+},
+{
+"name": "merlin",
+"children": [
+{"name":" kes21 ",  "size":  1 },
+{}]
+},
+{
+"name": "gzip",
+"children": [
+{"name":" ah283 ",  "size":  1 },
 {}]
 },
 {
@@ -289,9 +257,9 @@
 {}]
 },
 {
-"name": "cns_solve",
+"name": "bedItemOverlapC",
 "children": [
-{"name":" evfold ",  "size":  1 },
+{"name":" bl126 ",  "size":  1 },
 {}]
 },
 {
