@@ -2,75 +2,62 @@
 "name": "flare",
  "children": [
 {
-"name": "R",
+"name": "samtools",
 "children": [
-{"name":" hy79 ",  "size":  2 },
-{"name":" im60 ",  "size":  2 },
-{"name":" jnm9 ",  "size":  10 },
-{"name":" mtw10 ",  "size":  5 },
-{"name":" my79 ",  "size":  125 },
-{"name":" si64 ",  "size":  2 },
-{"name":" xd24 ",  "size":  225 },
-{"name":" xw75 ",  "size":  490 },
-{"name":" zl68 ",  "size":  3 },
+{"name":" ml314 ",  "size":  12 },
+{"name":" sl279 ",  "size":  728 },
 {}]
 },
 {
-"name": "python",
+"name": "R",
 "children": [
-{"name":" ep129 ",  "size":  3 },
-{"name":" jab69 ",  "size":  187 },
-{"name":" lg140 ",  "size":  1 },
-{"name":" xl168 ",  "size":  557 },
+{"name":" hy79 ",  "size":  2 },
+{"name":" mtw10 ",  "size":  3 },
+{"name":" si64 ",  "size":  2 },
+{"name":" xd24 ",  "size":  580 },
+{"name":" zl68 ",  "size":  3 },
 {}]
 },
 {
 "name": "MATLAB",
 "children": [
 {"name":" ag300 ",  "size":  12 },
-{"name":" car54 ",  "size":  31 },
-{"name":" dgr5 ",  "size":  35 },
-{"name":" gi16 ",  "size":  1 },
+{"name":" car54 ",  "size":  24 },
 {"name":" hi41 ",  "size":  1 },
-{"name":" jsb38 ",  "size":  322 },
-{"name":" kih1 ",  "size":  42 },
-{"name":" sa276 ",  "size":  137 },
-{"name":" yy118 ",  "size":  62 },
+{"name":" jsb38 ",  "size":  321 },
+{"name":" kih1 ",  "size":  27 },
+{"name":" sa276 ",  "size":  131 },
 {}]
 },
 {
 "name": "simulate",
 "children": [
-{"name":" mw38 ",  "size":  260 },
+{"name":" mw38 ",  "size":  205 },
 {}]
 },
 {
 "name": "mantra-bin",
 "children": [
-{"name":" cr136 ",  "size":  184 },
+{"name":" cr136 ",  "size":  191 },
 {}]
 },
 {
-"name": "rnnlib",
+"name": "python",
 "children": [
-{"name":" ma257 ",  "size":  180 },
-{}]
-},
-{
-"name": "java",
-"children": [
-{"name":" dm157 ",  "size":  4 },
-{"name":" jmy3 ",  "size":  156 },
-{"name":" kmh40 ",  "size":  1 },
-{"name":" mk446 ",  "size":  4 },
-{"name":" nr32 ",  "size":  1 },
-{"name":" srd4 ",  "size":  1 },
+{"name":" jab69 ",  "size":  187 },
+{"name":" xl168 ",  "size":  2 },
 {}]
 },
 {
 "name": "merlin",
 "children": [
-{"name":" kes21 ",  "size":  84 },
+{"name":" kes21 ",  "size":  164 },
+{}]
+},
+{
+"name": "rnnlib",
+"children": [
+{"name":" ma257 ",  "size":  148 },
 {}]
 },
 {
@@ -84,7 +71,7 @@
 {
 "name": "applymap4",
 "children": [
-{"name":" wal5 ",  "size":  35 },
+{"name":" wal5 ",  "size":  33 },
 {}]
 },
 {
@@ -96,7 +83,7 @@
 {
 "name": "cdivergence",
 "children": [
-{"name":" np29 ",  "size":  23 },
+{"name":" np29 ",  "size":  20 },
 {}]
 },
 {
@@ -106,58 +93,55 @@
 {}]
 },
 {
+"name": "ReadsToTranscri",
+"children": [
+{"name":" uma2 ",  "size":  12 },
+{}]
+},
+{
+"name": "java",
+"children": [
+{"name":" dm157 ",  "size":  2 },
+{"name":" jmy3 ",  "size":  1 },
+{"name":" kmh40 ",  "size":  1 },
+{"name":" uma2 ",  "size":  7 },
+{}]
+},
+{
 "name": "hmmscan",
 "children": [
-{"name":" dm157 ",  "size":  16 },
+{"name":" dm157 ",  "size":  11 },
 {}]
 },
 {
 "name": "MathKernel",
 "children": [
-{"name":" ma257 ",  "size":  10 },
+{"name":" ma257 ",  "size":  8 },
+{}]
+},
+{
+"name": "homer2",
+"children": [
+{"name":" el116 ",  "size":  3 },
+{"name":" kmh40 ",  "size":  2 },
 {}]
 },
 {
 "name": "shapeit",
 "children": [
-{"name":" mrp1 ",  "size":  6 },
-{}]
-},
-{
-"name": "MIPSFSimulation",
-"children": [
-{"name":" yr39 ",  "size":  6 },
-{}]
-},
-{
-"name": "samtools",
-"children": [
-{"name":" ml314 ",  "size":  2 },
-{"name":" sl279 ",  "size":  3 },
-{}]
-},
-{
-"name": "hmmpfam",
-"children": [
-{"name":" dm157 ",  "size":  4 },
-{}]
-},
-{
-"name": "stdp",
-"children": [
-{"name":" tm150 ",  "size":  3 },
-{}]
-},
-{
-"name": "bismark",
-"children": [
-{"name":" has15 ",  "size":  3 },
+{"name":" mrp1 ",  "size":  4 },
 {}]
 },
 {
 "name": "step2",
 "children": [
 {"name":" kmn7 ",  "size":  2 },
+{}]
+},
+{
+"name": "stdp",
+"children": [
+{"name":" tm150 ",  "size":  2 },
 {}]
 },
 {
@@ -179,21 +163,15 @@
 {}]
 },
 {
-"name": "meta-merlin-off",
+"name": "fingerPRINTScan",
 "children": [
-{"name":" jh316 ",  "size":  2 },
+{"name":" dm157 ",  "size":  2 },
 {}]
 },
 {
-"name": "homer2",
+"name": "blastall",
 "children": [
-{"name":" kmh40 ",  "size":  2 },
-{}]
-},
-{
-"name": "bowtie",
-"children": [
-{"name":" has15 ",  "size":  2 },
+{"name":" dm157 ",  "size":  2 },
 {}]
 },
 {
@@ -203,21 +181,27 @@
 {}]
 },
 {
+"name": "raxmlHPC-SSE3",
+"children": [
+{"name":" ak440 ",  "size":  1 },
+{}]
+},
+{
 "name": "prun",
 "children": [
 {"name":" wal5 ",  "size":  1 },
 {}]
 },
 {
-"name": "preseq",
-"children": [
-{"name":" ep129 ",  "size":  1 },
-{}]
-},
-{
 "name": "perl",
 "children": [
 {"name":" ft42 ",  "size":  1 },
+{}]
+},
+{
+"name": "meta-merlin-off",
+"children": [
+{"name":" jh316 ",  "size":  1 },
 {}]
 },
 {
@@ -228,18 +212,6 @@
 },
 {
 "name": "hmmsearch",
-"children": [
-{"name":" dm157 ",  "size":  1 },
-{}]
-},
-{
-"name": "gzip",
-"children": [
-{"name":" has15 ",  "size":  1 },
-{}]
-},
-{
-"name": "fingerPRINTScan",
 "children": [
 {"name":" dm157 ",  "size":  1 },
 {}]
@@ -266,6 +238,12 @@
 "name": "cas_Q1D7V5sim_1",
 "children": [
 {"name":" rf89 ",  "size":  1 },
+{}]
+},
+{
+"name": "BamSieve",
+"children": [
+{"name":" mag50 ",  "size":  1 },
 {}]
 },
 {
