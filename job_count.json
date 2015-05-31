@@ -2,54 +2,68 @@
 "name": "flare",
  "children": [
 {
-"name": "samtools",
+"name": "R",
 "children": [
-{"name":" sl279 ",  "size":  387 },
-{"name":" sm213 ",  "size":  14 },
+{"name":" bw101 ",  "size":  2 },
+{"name":" chm12 ",  "size":  1099 },
+{"name":" el116 ",  "size":  58 },
+{"name":" jl517 ",  "size":  3 },
+{"name":" jnm9 ",  "size":  241 },
+{"name":" xw75 ",  "size":  15 },
 {}]
 },
 {
 "name": "bwa",
 "children": [
-{"name":" el114 ",  "size":  16 },
+{"name":" el114 ",  "size":  11 },
 {"name":" ml314 ",  "size":  24 },
-{"name":" sl279 ",  "size":  253 },
+{"name":" sl279 ",  "size":  789 },
 {}]
 },
 {
 "name": "MATLAB",
 "children": [
-{"name":" dgr5 ",  "size":  22 },
-{"name":" jsb38 ",  "size":  11 },
-{"name":" kih1 ",  "size":  7 },
-{"name":" sa276 ",  "size":  188 },
-{}]
-},
-{
-"name": "simulate",
-"children": [
-{"name":" mw38 ",  "size":  163 },
+{"name":" dgr5 ",  "size":  18 },
+{"name":" ji25 ",  "size":  1 },
+{"name":" jsb38 ",  "size":  260 },
+{"name":" kih1 ",  "size":  2 },
+{"name":" ml275 ",  "size":  4 },
+{"name":" nk181 ",  "size":  3 },
+{"name":" sa276 ",  "size":  136 },
+{"name":" sh269 ",  "size":  17 },
+{"name":" slw28 ",  "size":  1 },
+{"name":" yy118 ",  "size":  13 },
 {}]
 },
 {
 "name": "python",
 "children": [
 {"name":" jab69 ",  "size":  150 },
-{"name":" lg140 ",  "size":  1 },
-{"name":" sm213 ",  "size":  7 },
+{"name":" sm213 ",  "size":  1 },
+{}]
+},
+{
+"name": "simulate",
+"children": [
+{"name":" mw38 ",  "size":  150 },
+{}]
+},
+{
+"name": "ChromoPainterv2",
+"children": [
+{"name":" prs6 ",  "size":  148 },
 {}]
 },
 {
 "name": "rnnlib",
 "children": [
-{"name":" ma257 ",  "size":  150 },
+{"name":" ma257 ",  "size":  115 },
 {}]
 },
 {
-"name": "sxisac.py",
+"name": "jackhmmer",
 "children": [
-{"name":" hc148 ",  "size":  32 },
-{"name":" pc101 ",  "size":  96 },
+{"name":" sh269 ",  "size":  69 },
 {}]
 },
 {
@@ -59,21 +73,21 @@
 {}]
 },
 {
-"name": "preseq",
+"name": "samtools",
 "children": [
-{"name":" sm213 ",  "size":  53 },
+{"name":" sl279 ",  "size":  35 },
 {}]
 },
 {
 "name": "applymap4",
 "children": [
-{"name":" wal5 ",  "size":  35 },
+{"name":" wal5 ",  "size":  34 },
 {}]
 },
 {
-"name": "merlin",
+"name": "sxisac.py",
 "children": [
-{"name":" kes21 ",  "size":  28 },
+{"name":" hc148 ",  "size":  32 },
 {}]
 },
 {
@@ -83,34 +97,33 @@
 {}]
 },
 {
-"name": "R",
-"children": [
-{"name":" el116 ",  "size":  22 },
-{"name":" lv32 ",  "size":  1 },
-{}]
-},
-{
 "name": "spider_linux_mp",
 "children": [
-{"name":" yl273 ",  "size":  19 },
+{"name":" yl273 ",  "size":  18 },
 {}]
 },
 {
-"name": "mdrun",
+"name": "bedtools",
 "children": [
-{"name":" sw214 ",  "size":  12 },
+{"name":" sl279 ",  "size":  14 },
 {}]
 },
 {
 "name": "MathKernel",
 "children": [
-{"name":" ma257 ",  "size":  10 },
+{"name":" ma257 ",  "size":  9 },
+{}]
+},
+{
+"name": "merlin",
+"children": [
+{"name":" kes21 ",  "size":  8 },
 {}]
 },
 {
 "name": "stdp",
 "children": [
-{"name":" tm150 ",  "size":  8 },
+{"name":" tm150 ",  "size":  6 },
 {}]
 },
 {
@@ -120,22 +133,24 @@
 {}]
 },
 {
+"name": "mantra-bin",
+"children": [
+{"name":" cr136 ",  "size":  6 },
+{}]
+},
+{
+"name": "perl",
+"children": [
+{"name":" der3 ",  "size":  1 },
+{"name":" ft42 ",  "size":  1 },
+{"name":" srd4 ",  "size":  2 },
+{}]
+},
+{
 "name": "homer2",
 "children": [
 {"name":" el116 ",  "size":  2 },
 {"name":" kmh40 ",  "size":  2 },
-{}]
-},
-{
-"name": "GeneTorrent",
-"children": [
-{"name":" psm13 ",  "size":  4 },
-{}]
-},
-{
-"name": "sort",
-"children": [
-{"name":" sm213 ",  "size":  3 },
 {}]
 },
 {
@@ -151,18 +166,6 @@
 {}]
 },
 {
-"name": "bedtools",
-"children": [
-{"name":" sm213 ",  "size":  2 },
-{}]
-},
-{
-"name": "tmsite",
-"children": [
-{"name":" rf89 ",  "size":  1 },
-{}]
-},
-{
 "name": "segment_juncs",
 "children": [
 {"name":" ah283 ",  "size":  1 },
@@ -175,27 +178,15 @@
 {}]
 },
 {
-"name": "perl",
-"children": [
-{"name":" ft42 ",  "size":  1 },
-{}]
-},
-{
 "name": "meme.bin",
 "children": [
 {"name":" qx15 ",  "size":  1 },
 {}]
 },
 {
-"name": "macs2",
+"name": "esub.memlimit",
 "children": [
-{"name":" lg140 ",  "size":  1 },
-{}]
-},
-{
-"name": "computed",
-"children": [
-{"name":" pm82 ",  "size":  1 },
+{"name":" prs6 ",  "size":  1 },
 {}]
 },
 {
