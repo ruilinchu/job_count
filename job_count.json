@@ -2,142 +2,101 @@
 "name": "flare",
  "children": [
 {
-"name": "simulate",
-"children": [
-{"name":" mw38 ",  "size":  642 },
-{}]
-},
-{
 "name": "bwa",
 "children": [
 {"name":" el114 ",  "size":  1 },
-{"name":" sl279 ",  "size":  407 },
+{"name":" sl279 ",  "size":  802 },
 {}]
 },
 {
-"name": "MATLAB",
+"name": "simulate",
 "children": [
-{"name":" dgr5 ",  "size":  20 },
-{"name":" ff49 ",  "size":  1 },
-{"name":" gi16 ",  "size":  1 },
-{"name":" has15 ",  "size":  9 },
-{"name":" jsb38 ",  "size":  170 },
-{"name":" sa276 ",  "size":  178 },
-{"name":" sh269 ",  "size":  16 },
+{"name":" mw38 ",  "size":  666 },
+{}]
+},
+{
+"name": "relion_refine_m",
+"children": [
+{"name":" bl81 ",  "size":  77 },
+{"name":" yl194 ",  "size":  252 },
 {}]
 },
 {
 "name": "mantra-bin",
 "children": [
-{"name":" cr136 ",  "size":  360 },
+{"name":" cr136 ",  "size":  272 },
+{}]
+},
+{
+"name": "MATLAB",
+"children": [
+{"name":" has15 ",  "size":  6 },
+{"name":" jsb38 ",  "size":  1 },
+{"name":" sa276 ",  "size":  178 },
+{"name":" sh269 ",  "size":  16 },
+{}]
+},
+{
+"name": "java",
+"children": [
+{"name":" gb67 ",  "size":  147 },
+{"name":" ml314 ",  "size":  25 },
+{"name":" sk58 ",  "size":  1 },
 {}]
 },
 {
 "name": "R",
 "children": [
 {"name":" af161 ",  "size":  1 },
-{"name":" dsd9 ",  "size":  1 },
-{"name":" jl517 ",  "size":  5 },
 {"name":" tjh20 ",  "size":  3 },
 {"name":" xd24 ",  "size":  4 },
 {"name":" xl168 ",  "size":  1 },
-{"name":" xw75 ",  "size":  293 },
-{"name":" yl276 ",  "size":  1 },
-{"name":" zl46 ",  "size":  4 },
+{"name":" xw75 ",  "size":  110 },
 {"name":" zl68 ",  "size":  2 },
-{}]
-},
-{
-"name": "relion_refine_m",
-"children": [
-{"name":" yl194 ",  "size":  252 },
-{}]
-},
-{
-"name": "warp3",
-"children": [
-{"name":" ctb12 ",  "size":  180 },
-{}]
-},
-{
-"name": "first",
-"children": [
-{"name":" ctb12 ",  "size":  160 },
-{}]
-},
-{
-"name": "java",
-"children": [
-{"name":" gb67 ",  "size":  97 },
-{"name":" kih1 ",  "size":  3 },
-{"name":" ml314 ",  "size":  18 },
 {}]
 },
 {
 "name": "stdp",
 "children": [
-{"name":" tm150 ",  "size":  114 },
+{"name":" tm150 ",  "size":  101 },
 {}]
 },
 {
 "name": "rnnlib",
 "children": [
-{"name":" ma257 ",  "size":  99 },
-{}]
-},
-{
-"name": "bowtie2-align-s",
-"children": [
-{"name":" el116 ",  "size":  87 },
-{}]
-},
-{
-"name": "awk",
-"children": [
-{"name":" ag284 ",  "size":  49 },
-{}]
-},
-{
-"name": "coalescent",
-"children": [
-{"name":" ag284 ",  "size":  45 },
+{"name":" ma257 ",  "size":  98 },
 {}]
 },
 {
 "name": "samtools",
 "children": [
-{"name":" el114 ",  "size":  2 },
-{"name":" ml314 ",  "size":  2 },
-{"name":" sl279 ",  "size":  34 },
-{"name":" sm213 ",  "size":  4 },
+{"name":" sl279 ",  "size":  60 },
+{}]
+},
+{
+"name": "intrasection_ge",
+"children": [
+{"name":" ctb12 ",  "size":  27 },
 {}]
 },
 {
 "name": "bedtools",
 "children": [
-{"name":" sl279 ",  "size":  13 },
-{"name":" sm213 ",  "size":  8 },
+{"name":" sl279 ",  "size":  18 },
 {}]
 },
 {
 "name": "perl",
 "children": [
-{"name":" dh40 ",  "size":  10 },
-{"name":" mkv6 ",  "size":  10 },
+{"name":" dh40 ",  "size":  11 },
+{"name":" mkv6 ",  "size":  4 },
 {}]
 },
 {
 "name": "python",
 "children": [
-{"name":" lg140 ",  "size":  12 },
-{"name":" prs6 ",  "size":  2 },
-{}]
-},
-{
-"name": "cuffdiff",
-"children": [
-{"name":" dh128 ",  "size":  4 },
-{"name":" ft42 ",  "size":  8 },
+{"name":" lg140 ",  "size":  3 },
+{"name":" sm213 ",  "size":  7 },
 {}]
 },
 {
@@ -147,45 +106,34 @@
 {}]
 },
 {
-"name": "plink",
+"name": "warp3",
 "children": [
-{"name":" ag284 ",  "size":  9 },
-{}]
-},
-{
-"name": "msmc",
-"children": [
-{"name":" im60 ",  "size":  9 },
+{"name":" ctb12 ",  "size":  8 },
 {}]
 },
 {
 "name": "MathKernel",
 "children": [
-{"name":" ma257 ",  "size":  8 },
+{"name":" ma257 ",  "size":  7 },
 {}]
 },
 {
-"name": "cgatools",
+"name": "bowtie2-align-s",
 "children": [
-{"name":" yc126 ",  "size":  4 },
+{"name":" el116 ",  "size":  6 },
 {}]
 },
 {
-"name": "bowtie2-align",
+"name": "cuffdiff",
 "children": [
-{"name":" kmh37 ",  "size":  4 },
+{"name":" dh128 ",  "size":  1 },
+{"name":" ft42 ",  "size":  4 },
 {}]
 },
 {
-"name": "newsamtools",
+"name": "msmc",
 "children": [
-{"name":" qf6 ",  "size":  3 },
-{}]
-},
-{
-"name": "WolframKernel",
-"children": [
-{"name":" ma257 ",  "size":  2 },
+{"name":" im60 ",  "size":  3 },
 {}]
 },
 {
@@ -201,39 +149,33 @@
 {}]
 },
 {
+"name": "newsamtools",
+"children": [
+{"name":" qf6 ",  "size":  2 },
+{}]
+},
+{
+"name": "applymap4",
+"children": [
+{"name":" ctb12 ",  "size":  2 },
+{}]
+},
+{
+"name": "WolframKernel",
+"children": [
+{"name":" ma257 ",  "size":  1 },
+{}]
+},
+{
 "name": "python2.5",
 "children": [
 {"name":" yl194 ",  "size":  1 },
 {}]
 },
 {
-"name": "pulldown",
-"children": [
-{"name":" qf6 ",  "size":  1 },
-{}]
-},
-{
-"name": "intrasection_ge",
-"children": [
-{"name":" ctb12 ",  "size":  1 },
-{}]
-},
-{
 "name": "cpulldown",
 "children": [
 {"name":" qf6 ",  "size":  1 },
-{}]
-},
-{
-"name": "cluster",
-"children": [
-{"name":" has15 ",  "size":  1 },
-{}]
-},
-{
-"name": "bash",
-"children": [
-{"name":" prs6 ",  "size":  1 },
 {}]
 },
 {}]
