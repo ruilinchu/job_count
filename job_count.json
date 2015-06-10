@@ -2,90 +2,94 @@
 "name": "flare",
  "children": [
 {
-"name": "MATLAB",
-"children": [
-{"name":" car54 ",  "size":  9 },
-{"name":" crp1 ",  "size":  10 },
-{"name":" dgr5 ",  "size":  2 },
-{"name":" gi16 ",  "size":  1 },
-{"name":" jsb38 ",  "size":  393 },
-{"name":" sa276 ",  "size":  137 },
-{"name":" sh269 ",  "size":  3 },
-{"name":" yy118 ",  "size":  36 },
-{}]
-},
-{
 "name": "R",
 "children": [
 {"name":" af161 ",  "size":  1 },
-{"name":" jnm9 ",  "size":  24 },
+{"name":" jnm9 ",  "size":  10 },
 {"name":" kes21 ",  "size":  1 },
-{"name":" lj48 ",  "size":  6 },
-{"name":" mm573 ",  "size":  13 },
-{"name":" mtw10 ",  "size":  5 },
+{"name":" mtw10 ",  "size":  3 },
 {"name":" tjh20 ",  "size":  2 },
 {"name":" xd24 ",  "size":  4 },
-{"name":" xw75 ",  "size":  413 },
-{"name":" yj66 ",  "size":  1 },
+{"name":" xw75 ",  "size":  486 },
+{"name":" yl276 ",  "size":  1 },
 {"name":" zl68 ",  "size":  2 },
 {}]
 },
 {
-"name": "gzip",
+"name": "MathKernel",
 "children": [
-{"name":" psm13 ",  "size":  428 },
+{"name":" lp28 ",  "size":  503 },
+{"name":" ma257 ",  "size":  4 },
+{}]
+},
+{
+"name": "MATLAB",
+"children": [
+{"name":" anb12 ",  "size":  1 },
+{"name":" car54 ",  "size":  10 },
+{"name":" crp1 ",  "size":  13 },
+{"name":" hc168 ",  "size":  1 },
+{"name":" jsb38 ",  "size":  261 },
+{"name":" sa276 ",  "size":  159 },
+{"name":" sh269 ",  "size":  3 },
 {}]
 },
 {
 "name": "stdp",
 "children": [
-{"name":" tm150 ",  "size":  274 },
-{}]
-},
-{
-"name": "relion_refine_m",
-"children": [
-{"name":" yl194 ",  "size":  252 },
+{"name":" tm150 ",  "size":  316 },
 {}]
 },
 {
 "name": "bwa",
 "children": [
 {"name":" el114 ",  "size":  1 },
-{"name":" sl279 ",  "size":  226 },
+{"name":" sl279 ",  "size":  265 },
+{}]
+},
+{
+"name": "relion_refine_m",
+"children": [
+{"name":" yl194 ",  "size":  255 },
 {}]
 },
 {
 "name": "simulate",
 "children": [
-{"name":" mw38 ",  "size":  207 },
+{"name":" mw38 ",  "size":  233 },
 {}]
 },
 {
 "name": "LTMLM",
 "children": [
-{"name":" tjh20 ",  "size":  129 },
+{"name":" tjh20 ",  "size":  147 },
 {}]
 },
 {
 "name": "rnnlib",
 "children": [
-{"name":" ma257 ",  "size":  88 },
+{"name":" ma257 ",  "size":  92 },
+{}]
+},
+{
+"name": "gzip",
+"children": [
+{"name":" jmg38 ",  "size":  3 },
+{"name":" sl279 ",  "size":  87 },
 {}]
 },
 {
 "name": "python",
 "children": [
-{"name":" el116 ",  "size":  5 },
-{"name":" hf44 ",  "size":  5 },
+{"name":" hf44 ",  "size":  1 },
 {"name":" jab69 ",  "size":  60 },
 {}]
 },
 {
-"name": "shapeit",
+"name": "STAR",
 "children": [
-{"name":" im60 ",  "size":  49 },
-{"name":" ss545 ",  "size":  8 },
+{"name":" ccb15 ",  "size":  12 },
+{"name":" jmg38 ",  "size":  41 },
 {}]
 },
 {
@@ -95,32 +99,21 @@
 {}]
 },
 {
+"name": "java",
+"children": [
+{"name":" dm157 ",  "size":  1 },
+{"name":" ml314 ",  "size":  6 },
+{"name":" sl279 ",  "size":  1 },
+{"name":" sl325 ",  "size":  2 },
+{"name":" srd4 ",  "size":  9 },
+{}]
+},
+{
 "name": "samtools",
 "children": [
 {"name":" el114 ",  "size":  3 },
 {"name":" ep129 ",  "size":  1 },
-{"name":" ml314 ",  "size":  1 },
-{"name":" sl279 ",  "size":  24 },
-{"name":" sl325 ",  "size":  1 },
-{}]
-},
-{
-"name": "pylapels",
-"children": [
-{"name":" el116 ",  "size":  18 },
-{}]
-},
-{
-"name": "warp3",
-"children": [
-{"name":" ctb12 ",  "size":  16 },
-{}]
-},
-{
-"name": "jackhmmer",
-"children": [
-{"name":" ak440 ",  "size":  14 },
-{"name":" rf89 ",  "size":  1 },
+{"name":" sl279 ",  "size":  13 },
 {}]
 },
 {
@@ -136,70 +129,46 @@
 {}]
 },
 {
-"name": "java",
+"name": "shapeit",
 "children": [
-{"name":" dm157 ",  "size":  1 },
-{"name":" kih1 ",  "size":  2 },
-{"name":" ml314 ",  "size":  6 },
-{"name":" sl325 ",  "size":  1 },
-{}]
-},
-{
-"name": "cuffdiff",
-"children": [
-{"name":" ft42 ",  "size":  8 },
-{}]
-},
-{
-"name": "coalescent",
-"children": [
-{"name":" ag284 ",  "size":  8 },
+{"name":" ss545 ",  "size":  8 },
 {}]
 },
 {
 "name": "perl",
 "children": [
-{"name":" ah283 ",  "size":  1 },
-{"name":" dh40 ",  "size":  5 },
+{"name":" dh40 ",  "size":  6 },
 {"name":" mkv6 ",  "size":  1 },
-{}]
-},
-{
-"name": "MathKernel",
-"children": [
-{"name":" ma257 ",  "size":  6 },
-{}]
-},
-{
-"name": "cns_solve",
-"children": [
-{"name":" rf89 ",  "size":  6 },
 {}]
 },
 {
 "name": "bowtie2-align",
 "children": [
-{"name":" sl325 ",  "size":  6 },
+{"name":" sl325 ",  "size":  7 },
 {}]
 },
 {
-"name": "hmmscan",
+"name": "cns_solve",
 "children": [
-{"name":" ajr48 ",  "size":  3 },
-{"name":" dm157 ",  "size":  2 },
+{"name":" rf89 ",  "size":  5 },
+{}]
+},
+{
+"name": "demultiplexBcls",
+"children": [
+{"name":" abg7 ",  "size":  4 },
+{}]
+},
+{
+"name": "cuffdiff",
+"children": [
+{"name":" ft42 ",  "size":  4 },
 {}]
 },
 {
 "name": "bedtools",
 "children": [
-{"name":" sl279 ",  "size":  5 },
-{}]
-},
-{
-"name": "rsync",
-"children": [
-{"name":" abg7 ",  "size":  2 },
-{"name":" sm213 ",  "size":  2 },
+{"name":" sl279 ",  "size":  3 },
 {}]
 },
 {
@@ -215,15 +184,9 @@
 {}]
 },
 {
-"name": "pseq",
+"name": "hmmscan",
 "children": [
-{"name":" ah249 ",  "size":  2 },
-{}]
-},
-{
-"name": "computed",
-"children": [
-{"name":" ss545 ",  "size":  2 },
+{"name":" dm157 ",  "size":  2 },
 {}]
 },
 {
@@ -233,27 +196,9 @@
 {}]
 },
 {
-"name": "annotate.pl",
-"children": [
-{"name":" mz128 ",  "size":  2 },
-{}]
-},
-{
-"name": "vcftools",
-"children": [
-{"name":" mkv6 ",  "size":  1 },
-{}]
-},
-{
 "name": "python2.5",
 "children": [
 {"name":" yl194 ",  "size":  1 },
-{}]
-},
-{
-"name": "pulldown",
-"children": [
-{"name":" np29 ",  "size":  1 },
 {}]
 },
 {
@@ -263,15 +208,27 @@
 {}]
 },
 {
-"name": "newsamtools",
+"name": "prep_reads",
 "children": [
-{"name":" np29 ",  "size":  1 },
+{"name":" sl325 ",  "size":  1 },
 {}]
 },
 {
-"name": "grep",
+"name": "long_spanning_r",
 "children": [
 {"name":" sl325 ",  "size":  1 },
+{}]
+},
+{
+"name": "intrasection_ge",
+"children": [
+{"name":" ctb12 ",  "size":  1 },
+{}]
+},
+{
+"name": "geneBody_covera",
+"children": [
+{"name":" lg140 ",  "size":  1 },
 {}]
 },
 {
@@ -281,15 +238,15 @@
 {}]
 },
 {
-"name": "cufflinks",
-"children": [
-{"name":" mh332 ",  "size":  1 },
-{}]
-},
-{
 "name": "blastpgp",
 "children": [
 {"name":" lys6 ",  "size":  1 },
+{}]
+},
+{
+"name": "annotate.pl",
+"children": [
+{"name":" mz128 ",  "size":  1 },
 {}]
 },
 {}]
