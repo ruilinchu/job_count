@@ -4,160 +4,145 @@
 {
 "name": "hcash",
 "children": [
-{"name":" eab42 ",  "size":  314 },
-{"name":" fg35 ",  "size":  57 },
-{"name":" kl208 ",  "size":  317 },
-{"name":" nlg3 ",  "size":  31 },
-{"name":" ss407 ",  "size":  120 },
+{"name":" eab42 ",  "size":  225 },
+{"name":" fg35 ",  "size":  266 },
+{"name":" kl208 ",  "size":  226 },
+{"name":" nlg3 ",  "size":  221 },
+{"name":" ss407 ",  "size":  260 },
 {}]
 },
 {
 "name": "mantra-bin",
 "children": [
-{"name":" cr136 ",  "size":  527 },
-{}]
-},
-{
-"name": "MATLAB",
-"children": [
-{"name":" aa273 ",  "size":  46 },
-{"name":" ag300 ",  "size":  2 },
-{"name":" dgr5 ",  "size":  34 },
-{"name":" jlw51 ",  "size":  1 },
-{"name":" jwo5 ",  "size":  73 },
-{"name":" mjm28 ",  "size":  5 },
-{"name":" sa276 ",  "size":  145 },
-{}]
-},
-{
-"name": "relion_refine_m",
-"children": [
-{"name":" yl194 ",  "size":  181 },
+{"name":" cr136 ",  "size":  499 },
 {}]
 },
 {
 "name": "java",
 "children": [
 {"name":" as467 ",  "size":  1 },
-{"name":" el114 ",  "size":  1 },
-{"name":" im60 ",  "size":  7 },
+{"name":" el114 ",  "size":  2 },
+{"name":" ep129 ",  "size":  6 },
+{"name":" im60 ",  "size":  6 },
 {"name":" mh168 ",  "size":  1 },
-{"name":" mhb15 ",  "size":  58 },
+{"name":" mhb15 ",  "size":  334 },
 {"name":" ml314 ",  "size":  3 },
-{"name":" sl279 ",  "size":  60 },
+{"name":" sl279 ",  "size":  55 },
+{"name":" srd4 ",  "size":  1 },
+{"name":" tl103 ",  "size":  1 },
+{"name":" xn5 ",  "size":  1 },
 {}]
 },
 {
-"name": "samtools",
+"name": "MATLAB",
 "children": [
-{"name":" el114 ",  "size":  5 },
-{"name":" el116 ",  "size":  4 },
-{"name":" io23 ",  "size":  50 },
-{"name":" kmh40 ",  "size":  1 },
-{"name":" mhb15 ",  "size":  9 },
-{"name":" psm13 ",  "size":  2 },
-{"name":" sl279 ",  "size":  52 },
+{"name":" dgr5 ",  "size":  34 },
+{"name":" jlw51 ",  "size":  3 },
+{"name":" jwo5 ",  "size":  186 },
+{"name":" mjm28 ",  "size":  14 },
+{"name":" sa276 ",  "size":  168 },
 {}]
 },
 {
-"name": "blasr",
+"name": "gcta",
 "children": [
-{"name":" lg140 ",  "size":  122 },
+{"name":" gb67 ",  "size":  245 },
 {}]
 },
 {
-"name": "DEX.out",
+"name": "relion_refine_m",
 "children": [
-{"name":" xl68 ",  "size":  120 },
-{}]
-},
-{
-"name": "bwa",
-"children": [
-{"name":" el114 ",  "size":  51 },
-{"name":" ep129 ",  "size":  48 },
-{"name":" psm13 ",  "size":  21 },
+{"name":" yl194 ",  "size":  166 },
 {}]
 },
 {
 "name": "python",
 "children": [
-{"name":" bwt3 ",  "size":  1 },
-{"name":" ep129 ",  "size":  7 },
-{"name":" hb88 ",  "size":  6 },
+{"name":" ep129 ",  "size":  22 },
+{"name":" hb88 ",  "size":  5 },
 {"name":" im60 ",  "size":  8 },
-{"name":" lg140 ",  "size":  28 },
-{"name":" prs6 ",  "size":  12 },
-{"name":" ra154 ",  "size":  53 },
+{"name":" lg140 ",  "size":  4 },
+{"name":" ra154 ",  "size":  51 },
+{"name":" sk58 ",  "size":  1 },
 {"name":" xn5 ",  "size":  1 },
 {}]
 },
 {
-"name": "first",
+"name": "bwa",
 "children": [
-{"name":" ctb12 ",  "size":  88 },
+{"name":" el114 ",  "size":  44 },
+{"name":" ep129 ",  "size":  32 },
+{"name":" njr7 ",  "size":  1 },
+{"name":" psm13 ",  "size":  12 },
 {}]
 },
 {
-"name": "perl",
+"name": "stdp",
 "children": [
-{"name":" dh40 ",  "size":  6 },
-{"name":" mhb15 ",  "size":  1 },
-{"name":" psm13 ",  "size":  2 },
-{"name":" tl103 ",  "size":  77 },
-{}]
-},
-{
-"name": "bowtie2-align-s",
-"children": [
-{"name":" el116 ",  "size":  65 },
-{"name":" lp113 ",  "size":  12 },
-{}]
-},
-{
-"name": "WolframKernel",
-"children": [
-{"name":" ma257 ",  "size":  66 },
-{}]
-},
-{
-"name": "R",
-"children": [
-{"name":" af161 ",  "size":  1 },
-{"name":" im60 ",  "size":  7 },
-{"name":" jcj15 ",  "size":  51 },
-{"name":" tjh20 ",  "size":  5 },
-{"name":" xw75 ",  "size":  1 },
-{}]
-},
-{
-"name": "python3",
-"children": [
-{"name":" im60 ",  "size":  63 },
-{}]
-},
-{
-"name": "window1",
-"children": [
-{"name":" ss545 ",  "size":  53 },
+{"name":" tm150 ",  "size":  81 },
 {}]
 },
 {
 "name": "warp3",
 "children": [
-{"name":" ctb12 ",  "size":  40 },
+{"name":" ctb12 ",  "size":  80 },
+{}]
+},
+{
+"name": "R",
+"children": [
+{"name":" gb67 ",  "size":  1 },
+{"name":" im60 ",  "size":  6 },
+{"name":" jcj15 ",  "size":  70 },
+{"name":" tjh20 ",  "size":  2 },
+{}]
+},
+{
+"name": "admixture",
+"children": [
+{"name":" il41 ",  "size":  14 },
+{"name":" prs6 ",  "size":  51 },
+{}]
+},
+{
+"name": "samtools",
+"children": [
+{"name":" ed72 ",  "size":  4 },
+{"name":" el114 ",  "size":  2 },
+{"name":" sl279 ",  "size":  57 },
+{}]
+},
+{
+"name": "qpDstat",
+"children": [
+{"name":" il41 ",  "size":  42 },
+{}]
+},
+{
+"name": "perl",
+"children": [
+{"name":" dh40 ",  "size":  7 },
+{"name":" io23 ",  "size":  2 },
+{"name":" psm13 ",  "size":  1 },
+{"name":" tl103 ",  "size":  30 },
+{}]
+},
+{
+"name": "cdiv2",
+"children": [
+{"name":" np29 ",  "size":  33 },
 {}]
 },
 {
 "name": "rnnlib",
 "children": [
-{"name":" ma257 ",  "size":  31 },
+{"name":" ma257 ",  "size":  29 },
 {}]
 },
 {
-"name": "msmc",
+"name": "WolframKernel",
 "children": [
-{"name":" im60 ",  "size":  26 },
+{"name":" ma257 ",  "size":  28 },
 {}]
 },
 {
@@ -167,52 +152,52 @@
 {}]
 },
 {
-"name": "grep",
+"name": "msmc",
 "children": [
-{"name":" nr32 ",  "size":  24 },
+{"name":" im60 ",  "size":  24 },
 {}]
 },
 {
-"name": "admixture",
+"name": "first",
 "children": [
-{"name":" il41 ",  "size":  16 },
+{"name":" ctb12 ",  "size":  20 },
+{}]
+},
+{
+"name": "awk",
+"children": [
+{"name":" gb67 ",  "size":  16 },
 {}]
 },
 {
 "name": "threepclr",
 "children": [
-{"name":" fr50 ",  "size":  15 },
+{"name":" fr50 ",  "size":  12 },
 {}]
 },
 {
-"name": "bowtie2-align",
+"name": "cufflinks",
 "children": [
-{"name":" bwt3 ",  "size":  4 },
-{"name":" mhb15 ",  "size":  11 },
+{"name":" mh332 ",  "size":  1 },
+{"name":" mp298 ",  "size":  11 },
 {}]
 },
 {
-"name": "tophat_reports",
+"name": "blasr",
 "children": [
-{"name":" bwt3 ",  "size":  8 },
+{"name":" lg140 ",  "size":  11 },
 {}]
 },
 {
-"name": "phyml-prottest-",
+"name": "pseq",
 "children": [
-{"name":" ajr48 ",  "size":  8 },
+{"name":" ah249 ",  "size":  7 },
 {}]
 },
 {
-"name": "STAR",
+"name": "jackhmmer",
 "children": [
-{"name":" jmg38 ",  "size":  7 },
-{}]
-},
-{
-"name": "stdp",
-"children": [
-{"name":" tm150 ",  "size":  5 },
+{"name":" kaw32 ",  "size":  6 },
 {}]
 },
 {
@@ -222,35 +207,21 @@
 {}]
 },
 {
-"name": "samFilter",
+"name": "loadPulses",
 "children": [
-{"name":" lg140 ",  "size":  4 },
+{"name":" lg140 ",  "size":  3 },
 {}]
 },
 {
-"name": "novoalign",
+"name": "bowtie2-align-s",
 "children": [
-{"name":" srd4 ",  "size":  4 },
-{}]
-},
-{
-"name": "gzip",
-"children": [
-{"name":" bwt3 ",  "size":  2 },
-{"name":" kt144 ",  "size":  1 },
-{"name":" sai3 ",  "size":  1 },
+{"name":" el116 ",  "size":  3 },
 {}]
 },
 {
 "name": "step2",
 "children": [
 {"name":" kmn7 ",  "size":  2 },
-{}]
-},
-{
-"name": "samtoh5",
-"children": [
-{"name":" lg140 ",  "size":  2 },
 {}]
 },
 {
@@ -261,27 +232,15 @@
 {}]
 },
 {
-"name": "palinear",
+"name": "asm-pipeline.py",
 "children": [
-{"name":" xl168 ",  "size":  2 },
+{"name":" lp113 ",  "size":  2 },
 {}]
 },
 {
-"name": "intrasection_ge",
+"name": "tmsite",
 "children": [
-{"name":" ctb12 ",  "size":  2 },
-{}]
-},
-{
-"name": "cufflinks",
-"children": [
-{"name":" mh332 ",  "size":  2 },
-{}]
-},
-{
-"name": "awk",
-"children": [
-{"name":" nr32 ",  "size":  2 },
+{"name":" rf89 ",  "size":  1 },
 {}]
 },
 {
@@ -291,49 +250,25 @@
 {}]
 },
 {
-"name": "seqcluster",
-"children": [
-{"name":" rsk27 ",  "size":  1 },
-{}]
-},
-{
-"name": "prun",
-"children": [
-{"name":" ctb12 ",  "size":  1 },
-{}]
-},
-{
-"name": "jackhmmer",
-"children": [
-{"name":" rf89 ",  "size":  1 },
-{}]
-},
-{
-"name": "HarwellBoeing.e",
-"children": [
-{"name":" ma257 ",  "size":  1 },
-{}]
-},
-{
-"name": "h5repack",
+"name": "samFilter",
 "children": [
 {"name":" lg140 ",  "size":  1 },
 {}]
 },
 {
-"name": "fix_map_orderin",
+"name": "plink",
 "children": [
-{"name":" bwt3 ",  "size":  1 },
+{"name":" mh326 ",  "size":  1 },
 {}]
 },
 {
-"name": "bwa-spades",
+"name": "intrasection_ge",
 "children": [
-{"name":" ndp9 ",  "size":  1 },
+{"name":" ctb12 ",  "size":  1 },
 {}]
 },
 {
-"name": "asm-pipeline.py",
+"name": "bowtie-align-s",
 "children": [
 {"name":" lp113 ",  "size":  1 },
 {}]
