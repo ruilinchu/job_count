@@ -4,130 +4,109 @@
 {
 "name": "hcash",
 "children": [
-{"name":" eab42 ",  "size":  234 },
-{"name":" fg35 ",  "size":  288 },
-{"name":" kl208 ",  "size":  51 },
-{"name":" nlg3 ",  "size":  293 },
+{"name":" eab42 ",  "size":  354 },
+{"name":" fg35 ",  "size":  406 },
+{"name":" nlg3 ",  "size":  411 },
 {}]
 },
 {
 "name": "java",
 "children": [
-{"name":" af161 ",  "size":  277 },
+{"name":" af161 ",  "size":  272 },
 {"name":" el114 ",  "size":  2 },
 {"name":" im60 ",  "size":  9 },
-{"name":" jmy3 ",  "size":  22 },
-{"name":" pp170 ",  "size":  93 },
-{"name":" sr45 ",  "size":  8 },
+{"name":" jf154 ",  "size":  1 },
+{"name":" jgh14 ",  "size":  324 },
+{"name":" jmy3 ",  "size":  26 },
+{"name":" pp170 ",  "size":  237 },
+{"name":" sk58 ",  "size":  1 },
+{"name":" sr45 ",  "size":  6 },
+{"name":" tl103 ",  "size":  1 },
 {"name":" yc126 ",  "size":  1 },
 {}]
 },
 {
 "name": "MATLAB",
 "children": [
-{"name":" aa273 ",  "size":  1 },
-{"name":" anb12 ",  "size":  4 },
-{"name":" car54 ",  "size":  144 },
-{"name":" crp1 ",  "size":  27 },
+{"name":" car54 ",  "size":  2 },
+{"name":" crp1 ",  "size":  21 },
 {"name":" ff49 ",  "size":  1 },
 {"name":" jlw51 ",  "size":  4 },
 {"name":" mjm28 ",  "size":  2 },
-{"name":" sa276 ",  "size":  139 },
-{"name":" tx4 ",  "size":  5 },
+{"name":" sa276 ",  "size":  169 },
+{"name":" tx4 ",  "size":  1 },
+{"name":" yy118 ",  "size":  100 },
 {}]
 },
 {
-"name": "impute2",
+"name": "samtools",
 "children": [
-{"name":" sp164 ",  "size":  292 },
+{"name":" af161 ",  "size":  150 },
+{"name":" el114 ",  "size":  2 },
+{"name":" sl279 ",  "size":  35 },
 {}]
 },
 {
 "name": "R",
 "children": [
 {"name":" dsd9 ",  "size":  1 },
-{"name":" ha52 ",  "size":  1 },
 {"name":" im60 ",  "size":  5 },
-{"name":" jl517 ",  "size":  17 },
-{"name":" kes21 ",  "size":  184 },
-{"name":" sg325 ",  "size":  58 },
+{"name":" jl517 ",  "size":  4 },
+{"name":" kes21 ",  "size":  2 },
+{"name":" sg325 ",  "size":  151 },
 {"name":" sgf2 ",  "size":  5 },
-{"name":" tjh20 ",  "size":  5 },
-{"name":" xw75 ",  "size":  5 },
+{"name":" tjh20 ",  "size":  6 },
+{"name":" xw75 ",  "size":  2 },
 {}]
 },
 {
 "name": "mantra-bin",
 "children": [
-{"name":" cr136 ",  "size":  221 },
+{"name":" cr136 ",  "size":  133 },
 {}]
 },
 {
-"name": "novoalign",
+"name": "impute2",
 "children": [
-{"name":" jgh14 ",  "size":  210 },
+{"name":" sp164 ",  "size":  130 },
 {}]
 },
 {
 "name": "blasr",
 "children": [
-{"name":" lg140 ",  "size":  117 },
-{}]
-},
-{
-"name": "topas",
-"children": [
-{"name":" jv62 ",  "size":  101 },
-{}]
-},
-{
-"name": "samtools",
-"children": [
-{"name":" af161 ",  "size":  31 },
-{"name":" el114 ",  "size":  2 },
-{"name":" jgh14 ",  "size":  1 },
-{"name":" sl279 ",  "size":  39 },
-{"name":" xn5 ",  "size":  1 },
-{}]
-},
-{
-"name": "simulate",
-"children": [
-{"name":" mw38 ",  "size":  65 },
-{}]
-},
-{
-"name": "stdp",
-"children": [
-{"name":" tm150 ",  "size":  62 },
+{"name":" lg140 ",  "size":  109 },
 {}]
 },
 {
 "name": "awk",
 "children": [
-{"name":" pp170 ",  "size":  62 },
+{"name":" pp170 ",  "size":  96 },
+{}]
+},
+{
+"name": "simulate",
+"children": [
+{"name":" mw38 ",  "size":  86 },
 {}]
 },
 {
 "name": "python",
 "children": [
-{"name":" jd187 ",  "size":  7 },
-{"name":" jk272 ",  "size":  2 },
-{"name":" lg140 ",  "size":  15 },
-{"name":" ra154 ",  "size":  26 },
+{"name":" lg140 ",  "size":  42 },
+{"name":" ra154 ",  "size":  38 },
 {"name":" xn5 ",  "size":  1 },
 {}]
 },
 {
-"name": "segment_juncs",
+"name": "stdp",
 "children": [
-{"name":" uma2 ",  "size":  49 },
+{"name":" tm150 ",  "size":  80 },
 {}]
 },
 {
-"name": "gcta64",
+"name": "bowtie2-align",
 "children": [
-{"name":" pp170 ",  "size":  38 },
+{"name":" kmh40 ",  "size":  38 },
 {}]
 },
 {
@@ -143,13 +122,6 @@
 {}]
 },
 {
-"name": "bowtie2-align",
-"children": [
-{"name":" kmh40 ",  "size":  24 },
-{"name":" uma2 ",  "size":  5 },
-{}]
-},
-{
 "name": "threepclr",
 "children": [
 {"name":" fr50 ",  "size":  24 },
@@ -158,45 +130,55 @@
 {
 "name": "rnnlib",
 "children": [
-{"name":" ma257 ",  "size":  21 },
+{"name":" ma257 ",  "size":  24 },
+{}]
+},
+{
+"name": "segment_juncs",
+"children": [
+{"name":" uma2 ",  "size":  19 },
 {}]
 },
 {
 "name": "plink",
 "children": [
-{"name":" pp170 ",  "size":  17 },
+{"name":" pp170 ",  "size":  16 },
 {}]
 },
 {
-"name": "palinear",
+"name": "hbatch-bin",
 "children": [
-{"name":" xl168 ",  "size":  15 },
-{}]
-},
-{
-"name": "perl",
-"children": [
-{"name":" ak150 ",  "size":  1 },
-{"name":" srd4 ",  "size":  1 },
-{"name":" yc126 ",  "size":  11 },
-{}]
-},
-{
-"name": "shapeit",
-"children": [
-{"name":" pl88 ",  "size":  12 },
+{"name":" cr136 ",  "size":  12 },
 {}]
 },
 {
 "name": "pylapels",
 "children": [
-{"name":" el116 ",  "size":  10 },
+{"name":" el116 ",  "size":  11 },
 {}]
 },
 {
-"name": "blastx",
+"name": "shapeit",
 "children": [
-{"name":" pt72 ",  "size":  7 },
+{"name":" pl88 ",  "size":  9 },
+{}]
+},
+{
+"name": "novoalign",
+"children": [
+{"name":" jgh14 ",  "size":  8 },
+{}]
+},
+{
+"name": "cufflinks",
+"children": [
+{"name":" ft42 ",  "size":  8 },
+{}]
+},
+{
+"name": "WolframKernel",
+"children": [
+{"name":" ma257 ",  "size":  6 },
 {}]
 },
 {
@@ -212,27 +194,15 @@
 {}]
 },
 {
+"name": "bowtie-align-s",
+"children": [
+{"name":" pt72 ",  "size":  6 },
+{}]
+},
+{
 "name": "loadPulses",
 "children": [
 {"name":" lg140 ",  "size":  5 },
-{}]
-},
-{
-"name": "bowtie-align-s",
-"children": [
-{"name":" pt72 ",  "size":  4 },
-{}]
-},
-{
-"name": "macs2",
-"children": [
-{"name":" hy79 ",  "size":  3 },
-{}]
-},
-{
-"name": "gzip",
-"children": [
-{"name":" pp170 ",  "size":  3 },
 {}]
 },
 {
@@ -249,33 +219,21 @@
 {}]
 },
 {
-"name": "coevol",
+"name": "gzip",
 "children": [
-{"name":" xz133 ",  "size":  2 },
+{"name":" pp170 ",  "size":  2 },
 {}]
 },
 {
-"name": "sort",
+"name": "blastx",
 "children": [
-{"name":" pp170 ",  "size":  1 },
+{"name":" pt72 ",  "size":  2 },
 {}]
 },
 {
-"name": "samtoh5",
+"name": "perl",
 "children": [
-{"name":" lg140 ",  "size":  1 },
-{}]
-},
-{
-"name": "rolloffp",
-"children": [
-{"name":" pm82 ",  "size":  1 },
-{}]
-},
-{
-"name": "long_spanning_r",
-"children": [
-{"name":" kmh40 ",  "size":  1 },
+{"name":" xn5 ",  "size":  1 },
 {}]
 },
 {
@@ -285,9 +243,15 @@
 {}]
 },
 {
-"name": "fix_map_orderin",
+"name": "demultiplexBcls",
 "children": [
-{"name":" uma2 ",  "size":  1 },
+{"name":" abg7 ",  "size":  1 },
+{}]
+},
+{
+"name": "coevol",
+"children": [
+{"name":" xz133 ",  "size":  1 },
 {}]
 },
 {
@@ -300,6 +264,18 @@
 "name": "bedtools",
 "children": [
 {"name":" hb88 ",  "size":  1 },
+{}]
+},
+{
+"name": "applymap4",
+"children": [
+{"name":" ctb12 ",  "size":  1 },
+{}]
+},
+{
+"name": "annotatePeaks.p",
+"children": [
+{"name":" ed72 ",  "size":  1 },
 {}]
 },
 {}]
