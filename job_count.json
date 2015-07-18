@@ -2,105 +2,87 @@
 "name": "flare",
  "children": [
 {
-"name": "MATLAB",
-"children": [
-{"name":" cs126 ",  "size":  8 },
-{"name":" hi41 ",  "size":  26 },
-{"name":" nz22 ",  "size":  511 },
-{"name":" sa276 ",  "size":  200 },
-{"name":" tah11 ",  "size":  42 },
-{}]
-},
-{
 "name": "hcash",
 "children": [
 {"name":" fg35 ",  "size":  200 },
-{"name":" ss407 ",  "size":  199 },
+{"name":" ss407 ",  "size":  200 },
+{}]
+},
+{
+"name": "MATLAB",
+"children": [
+{"name":" cs126 ",  "size":  5 },
+{"name":" hi41 ",  "size":  24 },
+{"name":" nz22 ",  "size":  43 },
+{"name":" sa276 ",  "size":  205 },
+{"name":" tah11 ",  "size":  26 },
 {}]
 },
 {
 "name": "bowtie-align-s",
 "children": [
-{"name":" jcj15 ",  "size":  267 },
+{"name":" jcj15 ",  "size":  264 },
 {"name":" pt72 ",  "size":  3 },
 {}]
 },
 {
 "name": "examl",
 "children": [
-{"name":" ajr48 ",  "size":  244 },
+{"name":" ajr48 ",  "size":  226 },
 {}]
 },
 {
 "name": "python",
 "children": [
-{"name":" ak399 ",  "size":  148 },
-{"name":" has15 ",  "size":  4 },
-{"name":" lg140 ",  "size":  25 },
-{"name":" ma257 ",  "size":  4 },
-{"name":" ra154 ",  "size":  50 },
-{"name":" srd4 ",  "size":  5 },
+{"name":" ak399 ",  "size":  150 },
+{"name":" lg140 ",  "size":  24 },
+{"name":" ma257 ",  "size":  2 },
+{"name":" ra154 ",  "size":  47 },
+{"name":" srd4 ",  "size":  1 },
 {}]
 },
 {
-"name": "3__pullSNPnull.",
+"name": "3__pullSNP.pl",
 "children": [
-{"name":" ha52 ",  "size":  178 },
-{}]
-},
-{
-"name": "window1",
-"children": [
-{"name":" ss545 ",  "size":  173 },
-{}]
-},
-{
-"name": "blastall",
-"children": [
-{"name":" scn3 ",  "size":  145 },
-{}]
-},
-{
-"name": "bwa",
-"children": [
-{"name":" el114 ",  "size":  90 },
-{"name":" ep129 ",  "size":  24 },
-{"name":" psm13 ",  "size":  11 },
+{"name":" ha52 ",  "size":  165 },
 {}]
 },
 {
 "name": "samtools",
 "children": [
-{"name":" el114 ",  "size":  1 },
-{"name":" jcj15 ",  "size":  84 },
+{"name":" el114 ",  "size":  2 },
+{"name":" jcj15 ",  "size":  92 },
 {"name":" psm13 ",  "size":  1 },
-{"name":" yc123 ",  "size":  1 },
+{}]
+},
+{
+"name": "bwa",
+"children": [
+{"name":" el114 ",  "size":  64 },
+{"name":" ep129 ",  "size":  16 },
+{"name":" psm13 ",  "size":  2 },
 {}]
 },
 {
 "name": "R",
 "children": [
 {"name":" af179 ",  "size":  1 },
-{"name":" ha52 ",  "size":  23 },
+{"name":" gwm3 ",  "size":  1 },
+{"name":" ha52 ",  "size":  27 },
 {"name":" hy79 ",  "size":  1 },
 {"name":" kcl19 ",  "size":  5 },
-{"name":" ki47 ",  "size":  9 },
-{"name":" sca8 ",  "size":  2 },
-{"name":" sgf2 ",  "size":  6 },
-{"name":" st275 ",  "size":  3 },
+{"name":" ki47 ",  "size":  3 },
+{"name":" rc210 ",  "size":  1 },
+{"name":" sgf2 ",  "size":  3 },
+{"name":" st275 ",  "size":  2 },
 {"name":" tjh20 ",  "size":  6 },
 {"name":" xw75 ",  "size":  18 },
 {}]
 },
 {
-"name": "java",
+"name": "bowtie2-align-s",
 "children": [
-{"name":" el114 ",  "size":  1 },
-{"name":" jgh14 ",  "size":  3 },
-{"name":" js604 ",  "size":  16 },
-{"name":" scn3 ",  "size":  10 },
-{"name":" sl279 ",  "size":  2 },
-{"name":" srd4 ",  "size":  10 },
+{"name":" ft42 ",  "size":  60 },
 {}]
 },
 {
@@ -116,52 +98,36 @@
 {}]
 },
 {
-"name": "emrefinement",
+"name": "java",
 "children": [
-{"name":" js604 ",  "size":  3 },
-{"name":" rlc18 ",  "size":  11 },
+{"name":" el114 ",  "size":  2 },
+{"name":" js604 ",  "size":  11 },
+{"name":" sl279 ",  "size":  1 },
 {}]
 },
 {
-"name": "gamess.00.x",
+"name": "emrefinement",
 "children": [
-{"name":" fej2 ",  "size":  13 },
+{"name":" js604 ",  "size":  2 },
+{"name":" rlc18 ",  "size":  12 },
 {}]
 },
 {
 "name": "msmc",
 "children": [
-{"name":" im60 ",  "size":  11 },
+{"name":" im60 ",  "size":  9 },
 {}]
 },
 {
-"name": "plm",
+"name": "3__pullSNPnull.",
 "children": [
-{"name":" tah11 ",  "size":  10 },
-{}]
-},
-{
-"name": "relion_refine_m",
-"children": [
-{"name":" bl81 ",  "size":  8 },
-{}]
-},
-{
-"name": "bolt",
-"children": [
-{"name":" pl88 ",  "size":  8 },
+{"name":" ha52 ",  "size":  7 },
 {}]
 },
 {
 "name": "stdp",
 "children": [
-{"name":" tm150 ",  "size":  6 },
-{}]
-},
-{
-"name": "compute_hamming",
-"children": [
-{"name":" cs281 ",  "size":  6 },
+{"name":" tm150 ",  "size":  5 },
 {}]
 },
 {
