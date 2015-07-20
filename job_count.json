@@ -2,82 +2,118 @@
 "name": "flare",
  "children": [
 {
-"name": "MATLAB",
+"name": "blastall",
 "children": [
-{"name":" crp1 ",  "size":  1 },
-{"name":" eb141 ",  "size":  9 },
-{"name":" hi41 ",  "size":  19 },
-{"name":" jwo5 ",  "size":  200 },
-{"name":" mh168 ",  "size":  1 },
-{"name":" sa276 ",  "size":  206 },
-{"name":" tah11 ",  "size":  16 },
-{}]
-},
-{
-"name": "hcash",
-"children": [
-{"name":" fg35 ",  "size":  202 },
+{"name":" scn3 ",  "size":  626 },
 {}]
 },
 {
 "name": "java",
 "children": [
+{"name":" abg7 ",  "size":  6 },
 {"name":" el114 ",  "size":  2 },
-{"name":" ra140 ",  "size":  79 },
-{"name":" sl279 ",  "size":  68 },
-{"name":" srd4 ",  "size":  48 },
+{"name":" js604 ",  "size":  1 },
+{"name":" kw112 ",  "size":  1 },
+{"name":" pp170 ",  "size":  1 },
+{"name":" ra140 ",  "size":  80 },
+{"name":" scn3 ",  "size":  361 },
+{"name":" sl279 ",  "size":  12 },
+{"name":" srd4 ",  "size":  51 },
 {}]
 },
 {
-"name": "sxisac.py",
+"name": "MATLAB",
 "children": [
-{"name":" bl81 ",  "size":  160 },
+{"name":" car54 ",  "size":  6 },
+{"name":" crp1 ",  "size":  11 },
+{"name":" eb141 ",  "size":  9 },
+{"name":" hi41 ",  "size":  19 },
+{"name":" jwo5 ",  "size":  200 },
+{"name":" mh168 ",  "size":  1 },
+{"name":" sa276 ",  "size":  201 },
+{"name":" tah11 ",  "size":  16 },
 {}]
 },
 {
 "name": "python",
 "children": [
-{"name":" ak399 ",  "size":  26 },
+{"name":" ak399 ",  "size":  16 },
 {"name":" lg140 ",  "size":  17 },
-{"name":" ma257 ",  "size":  2 },
+{"name":" ma257 ",  "size":  3 },
+{"name":" prs6 ",  "size":  181 },
 {"name":" ra154 ",  "size":  35 },
-{"name":" srd4 ",  "size":  59 },
-{}]
-},
-{
-"name": "bowtie-align-s",
-"children": [
-{"name":" jcj15 ",  "size":  99 },
-{"name":" pt72 ",  "size":  3 },
-{}]
-},
-{
-"name": "samtools",
-"children": [
-{"name":" el114 ",  "size":  2 },
-{"name":" jcj15 ",  "size":  83 },
+{"name":" rdk4 ",  "size":  1 },
+{"name":" srd4 ",  "size":  62 },
+{"name":" ss695 ",  "size":  2 },
 {}]
 },
 {
 "name": "R",
 "children": [
 {"name":" af179 ",  "size":  1 },
+{"name":" ao16 ",  "size":  1 },
+{"name":" bzk2 ",  "size":  6 },
+{"name":" dma12 ",  "size":  199 },
+{"name":" el116 ",  "size":  7 },
 {"name":" gwm3 ",  "size":  1 },
 {"name":" hy79 ",  "size":  1 },
 {"name":" jl517 ",  "size":  4 },
 {"name":" kcl19 ",  "size":  5 },
-{"name":" ki47 ",  "size":  22 },
+{"name":" ki47 ",  "size":  18 },
 {"name":" kle2 ",  "size":  1 },
+{"name":" lj48 ",  "size":  1 },
+{"name":" mm573 ",  "size":  1 },
+{"name":" npp10 ",  "size":  1 },
 {"name":" sca8 ",  "size":  40 },
 {"name":" sgf2 ",  "size":  3 },
 {"name":" st275 ",  "size":  3 },
-{"name":" tjh20 ",  "size":  1 },
+{"name":" tac15 ",  "size":  1 },
+{}]
+},
+{
+"name": "first",
+"children": [
+{"name":" ctb12 ",  "size":  255 },
+{}]
+},
+{
+"name": "hcash",
+"children": [
+{"name":" fg35 ",  "size":  200 },
+{}]
+},
+{
+"name": "sxisac.py",
+"children": [
+{"name":" bl81 ",  "size":  159 },
+{}]
+},
+{
+"name": "samtools",
+"children": [
+{"name":" el114 ",  "size":  3 },
+{"name":" ep129 ",  "size":  2 },
+{"name":" jcj15 ",  "size":  106 },
+{}]
+},
+{
+"name": "bowtie-align-s",
+"children": [
+{"name":" jcj15 ",  "size":  96 },
+{"name":" pt72 ",  "size":  3 },
+{}]
+},
+{
+"name": "bwa",
+"children": [
+{"name":" el114 ",  "size":  10 },
+{"name":" ep129 ",  "size":  49 },
 {}]
 },
 {
 "name": "examl",
 "children": [
-{"name":" ajr48 ",  "size":  41 },
+{"name":" ajr48 ",  "size":  36 },
 {}]
 },
 {
@@ -87,10 +123,9 @@
 {}]
 },
 {
-"name": "bwa",
+"name": "bowtie",
 "children": [
-{"name":" el114 ",  "size":  12 },
-{"name":" ep129 ",  "size":  8 },
+{"name":" abg7 ",  "size":  20 },
 {}]
 },
 {
@@ -100,22 +135,28 @@
 {}]
 },
 {
-"name": "admixture",
+"name": "intrasection_ge",
 "children": [
-{"name":" io23 ",  "size":  11 },
-{}]
-},
-{
-"name": "STAR",
-"children": [
-{"name":" agy3 ",  "size":  8 },
+{"name":" ctb12 ",  "size":  9 },
 {}]
 },
 {
 "name": "emrefinement",
 "children": [
-{"name":" js604 ",  "size":  3 },
-{"name":" rlc18 ",  "size":  3 },
+{"name":" js604 ",  "size":  2 },
+{"name":" rlc18 ",  "size":  6 },
+{}]
+},
+{
+"name": "admixture",
+"children": [
+{"name":" io23 ",  "size":  8 },
+{}]
+},
+{
+"name": "blastn",
+"children": [
+{"name":" ss695 ",  "size":  6 },
 {}]
 },
 {}]
