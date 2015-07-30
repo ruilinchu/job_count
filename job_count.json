@@ -2,129 +2,125 @@
 "name": "flare",
  "children": [
 {
-"name": "MATLAB",
-"children": [
-{"name":" ak440 ",  "size":  1 },
-{"name":" car54 ",  "size":  72 },
-{"name":" cmd16 ",  "size":  1 },
-{"name":" cs126 ",  "size":  17 },
-{"name":" eb141 ",  "size":  1 },
-{"name":" ff49 ",  "size":  95 },
-{"name":" gi16 ",  "size":  1 },
-{"name":" hi41 ",  "size":  10 },
-{"name":" jwo5 ",  "size":  186 },
-{"name":" kih1 ",  "size":  78 },
-{"name":" mh168 ",  "size":  1 },
-{"name":" nz22 ",  "size":  34 },
-{"name":" pp170 ",  "size":  209 },
-{"name":" sa276 ",  "size":  91 },
-{"name":" tx4 ",  "size":  1 },
-{}]
-},
-{
 "name": "java",
 "children": [
-{"name":" aap86 ",  "size":  4 },
-{"name":" cmg21 ",  "size":  8 },
-{"name":" el114 ",  "size":  1 },
-{"name":" mhb15 ",  "size":  124 },
-{"name":" mwl10 ",  "size":  65 },
-{"name":" ns250 ",  "size":  3 },
-{"name":" sg66 ",  "size":  285 },
-{"name":" sl279 ",  "size":  157 },
-{"name":" zjw2 ",  "size":  64 },
+{"name":" aap86 ",  "size":  27 },
+{"name":" mhb15 ",  "size":  269 },
+{"name":" mwl10 ",  "size":  52 },
+{"name":" ns250 ",  "size":  1 },
+{"name":" pl88 ",  "size":  4 },
+{"name":" sg66 ",  "size":  147 },
+{"name":" sl279 ",  "size":  200 },
+{"name":" zjw2 ",  "size":  57 },
 {}]
 },
 {
-"name": "python",
+"name": "MATLAB",
 "children": [
-{"name":" ak399 ",  "size":  15 },
-{"name":" ep129 ",  "size":  239 },
-{"name":" lg140 ",  "size":  1 },
-{"name":" ra154 ",  "size":  7 },
-{"name":" tt149 ",  "size":  10 },
+{"name":" ak440 ",  "size":  2 },
+{"name":" car54 ",  "size":  23 },
+{"name":" cmd16 ",  "size":  1 },
+{"name":" cs126 ",  "size":  15 },
+{"name":" eb141 ",  "size":  2 },
+{"name":" ff49 ",  "size":  140 },
+{"name":" he19 ",  "size":  1 },
+{"name":" hi41 ",  "size":  17 },
+{"name":" jwo5 ",  "size":  371 },
+{"name":" kih1 ",  "size":  44 },
+{"name":" mh168 ",  "size":  1 },
+{"name":" nz22 ",  "size":  8 },
+{"name":" sa276 ",  "size":  75 },
 {}]
 },
 {
 "name": "samtools",
 "children": [
-{"name":" el114 ",  "size":  1 },
-{"name":" lg140 ",  "size":  2 },
-{"name":" rx12 ",  "size":  1 },
-{"name":" sg348 ",  "size":  103 },
-{"name":" sm213 ",  "size":  160 },
-{}]
-},
-{
-"name": "mantra-bin",
-"children": [
-{"name":" cr136 ",  "size":  186 },
-{}]
-},
-{
-"name": "palinear",
-"children": [
-{"name":" xl168 ",  "size":  162 },
+{"name":" el114 ",  "size":  2 },
+{"name":" rx12 ",  "size":  2 },
+{"name":" sg348 ",  "size":  205 },
+{"name":" sm213 ",  "size":  159 },
 {}]
 },
 {
 "name": "bowtie-align-s",
 "children": [
-{"name":" sg348 ",  "size":  131 },
+{"name":" mm573 ",  "size":  40 },
+{"name":" sg348 ",  "size":  277 },
+{}]
+},
+{
+"name": "mantra-bin",
+"children": [
+{"name":" cr136 ",  "size":  161 },
+{}]
+},
+{
+"name": "palinear",
+"children": [
+{"name":" xl168 ",  "size":  84 },
 {}]
 },
 {
 "name": "relion_refine_m",
 "children": [
-{"name":" bl81 ",  "size":  77 },
+{"name":" bl81 ",  "size":  78 },
+{}]
+},
+{
+"name": "gcta64",
+"children": [
+{"name":" mc389 ",  "size":  72 },
 {}]
 },
 {
 "name": "R",
 "children": [
-{"name":" el116 ",  "size":  25 },
-{"name":" hy79 ",  "size":  1 },
-{"name":" jl517 ",  "size":  33 },
+{"name":" jl517 ",  "size":  10 },
+{"name":" sca8 ",  "size":  38 },
 {"name":" tac15 ",  "size":  2 },
-{"name":" xw75 ",  "size":  16 },
+{"name":" xw75 ",  "size":  15 },
+{"name":" zl46 ",  "size":  1 },
 {}]
 },
 {
 "name": "bwa",
 "children": [
-{"name":" el114 ",  "size":  3 },
-{"name":" ep129 ",  "size":  54 },
+{"name":" el114 ",  "size":  2 },
+{"name":" ep129 ",  "size":  51 },
 {}]
 },
 {
-"name": "hapi-ur",
+"name": "python",
 "children": [
-{"name":" pl88 ",  "size":  33 },
+{"name":" ak399 ",  "size":  11 },
+{"name":" lg140 ",  "size":  1 },
+{"name":" ra154 ",  "size":  7 },
+{"name":" tt149 ",  "size":  15 },
 {}]
 },
 {
 "name": "sxisac.py",
 "children": [
-{"name":" hc148 ",  "size":  31 },
-{}]
-},
-{
-"name": "seqtk",
-"children": [
-{"name":" prs6 ",  "size":  15 },
-{}]
-},
-{
-"name": "nbseq",
-"children": [
-{"name":" rx12 ",  "size":  15 },
+{"name":" hc148 ",  "size":  32 },
 {}]
 },
 {
 "name": "cufflinks",
 "children": [
-{"name":" mh332 ",  "size":  2 },
-{"name":" yz195 ",  "size":  13 },
+{"name":" mh332 ",  "size":  1 },
+{"name":" yz195 ",  "size":  21 },
+{}]
+},
+{
+"name": "step2",
+"children": [
+{"name":" kmn7 ",  "size":  14 },
+{}]
+},
+{
+"name": "seqtk",
+"children": [
+{"name":" prs6 ",  "size":  13 },
 {}]
 },
 {
@@ -134,21 +130,30 @@
 {}]
 },
 {
+"name": "WolframKernel",
+"children": [
+{"name":" ma257 ",  "size":  9 },
+{}]
+},
+{
 "name": "segment_juncs",
 "children": [
 {"name":" ccb15 ",  "size":  8 },
 {}]
 },
 {
-"name": "admixture",
+"name": "perl",
 "children": [
-{"name":" il41 ",  "size":  8 },
+{"name":" ft42 ",  "size":  2 },
+{"name":" pt72 ",  "size":  1 },
+{"name":" tl103 ",  "size":  2 },
 {}]
 },
 {
-"name": "jackhmmer",
+"name": "bowtie2-align",
 "children": [
-{"name":" ak440 ",  "size":  7 },
+{"name":" kml7 ",  "size":  1 },
+{"name":" mp298 ",  "size":  4 },
 {}]
 },
 {}]
