@@ -4,84 +4,65 @@
 {
 "name": "java",
 "children": [
-{"name":" aap86 ",  "size":  25 },
-{"name":" js604 ",  "size":  1 },
-{"name":" mhb15 ",  "size":  117 },
+{"name":" aap86 ",  "size":  26 },
+{"name":" el114 ",  "size":  1 },
+{"name":" mhb15 ",  "size":  226 },
 {"name":" mwl10 ",  "size":  60 },
 {"name":" njr7 ",  "size":  1 },
-{"name":" nn38 ",  "size":  11 },
 {"name":" ns250 ",  "size":  4 },
-{"name":" pl88 ",  "size":  4 },
-{"name":" sg66 ",  "size":  255 },
-{"name":" sl279 ",  "size":  193 },
-{"name":" zjw2 ",  "size":  63 },
-{}]
-},
-{
-"name": "MATLAB",
-"children": [
-{"name":" aj136 ",  "size":  1 },
-{"name":" car54 ",  "size":  10 },
-{"name":" cs126 ",  "size":  16 },
-{"name":" eb141 ",  "size":  1 },
-{"name":" ff49 ",  "size":  95 },
-{"name":" gi16 ",  "size":  1 },
-{"name":" jwo5 ",  "size":  134 },
-{"name":" kih1 ",  "size":  54 },
-{"name":" nz22 ",  "size":  5 },
-{"name":" sa276 ",  "size":  82 },
-{"name":" yy118 ",  "size":  40 },
-{}]
-},
-{
-"name": "samtools",
-"children": [
-{"name":" jj140 ",  "size":  88 },
-{"name":" sg348 ",  "size":  151 },
-{"name":" sm213 ",  "size":  174 },
-{}]
-},
-{
-"name": "bowtie-align-s",
-"children": [
-{"name":" jj140 ",  "size":  189 },
-{"name":" sg348 ",  "size":  106 },
-{}]
-},
-{
-"name": "R",
-"children": [
-{"name":" el116 ",  "size":  20 },
-{"name":" hy79 ",  "size":  3 },
-{"name":" jl517 ",  "size":  2 },
-{"name":" tac15 ",  "size":  2 },
-{"name":" xw75 ",  "size":  14 },
-{"name":" yez1 ",  "size":  120 },
-{"name":" zl46 ",  "size":  1 },
+{"name":" pl88 ",  "size":  1 },
+{"name":" sg66 ",  "size":  266 },
+{"name":" sl279 ",  "size":  183 },
+{"name":" zjw2 ",  "size":  58 },
 {}]
 },
 {
 "name": "hcash",
 "children": [
-{"name":" ss407 ",  "size":  150 },
+{"name":" md111 ",  "size":  471 },
 {}]
 },
 {
-"name": "python",
+"name": "samtools",
 "children": [
-{"name":" ak399 ",  "size":  21 },
-{"name":" ars52 ",  "size":  2 },
-{"name":" kjg15 ",  "size":  1 },
-{"name":" lg140 ",  "size":  1 },
-{"name":" nr32 ",  "size":  1 },
-{"name":" prs6 ",  "size":  106 },
-{"name":" ra154 ",  "size":  6 },
+{"name":" el114 ",  "size":  1 },
+{"name":" jj140 ",  "size":  82 },
+{"name":" sg348 ",  "size":  62 },
+{"name":" sm213 ",  "size":  188 },
+{}]
+},
+{
+"name": "bowtie-align-s",
+"children": [
+{"name":" jj140 ",  "size":  260 },
+{"name":" sg348 ",  "size":  49 },
+{}]
+},
+{
+"name": "MATLAB",
+"children": [
+{"name":" car54 ",  "size":  1 },
+{"name":" cs126 ",  "size":  16 },
+{"name":" eb141 ",  "size":  1 },
+{"name":" ff49 ",  "size":  83 },
+{"name":" gi16 ",  "size":  1 },
+{"name":" kih1 ",  "size":  55 },
+{"name":" mh168 ",  "size":  1 },
+{"name":" nz22 ",  "size":  3 },
+{"name":" sa276 ",  "size":  69 },
+{"name":" yy118 ",  "size":  31 },
+{}]
+},
+{
+"name": "gcta",
+"children": [
+{"name":" as671 ",  "size":  121 },
 {}]
 },
 {
 "name": "palinear",
 "children": [
-{"name":" xl168 ",  "size":  111 },
+{"name":" xl168 ",  "size":  101 },
 {}]
 },
 {
@@ -91,15 +72,15 @@
 {}]
 },
 {
-"name": "step2",
+"name": "bwa",
 "children": [
-{"name":" kmn7 ",  "size":  78 },
+{"name":" ep129 ",  "size":  47 },
 {}]
 },
 {
-"name": "bwa",
+"name": "step2",
 "children": [
-{"name":" ep129 ",  "size":  45 },
+{"name":" kmn7 ",  "size":  38 },
 {}]
 },
 {
@@ -109,34 +90,45 @@
 {}]
 },
 {
-"name": "hapi-ur",
+"name": "python",
 "children": [
-{"name":" pl88 ",  "size":  31 },
+{"name":" ak399 ",  "size":  21 },
+{"name":" ars52 ",  "size":  2 },
+{"name":" jlm26 ",  "size":  1 },
+{"name":" lg140 ",  "size":  1 },
 {}]
 },
 {
-"name": "syllables",
+"name": "R",
 "children": [
-{"name":" cea10 ",  "size":  4 },
-{"name":" rep19 ",  "size":  16 },
+{"name":" el116 ",  "size":  5 },
+{"name":" jl517 ",  "size":  1 },
+{"name":" xw75 ",  "size":  14 },
+{}]
+},
+{
+"name": "bsmap",
+"children": [
+{"name":" has15 ",  "size":  16 },
 {}]
 },
 {
 "name": "simulate",
 "children": [
-{"name":" ai69 ",  "size":  6 },
+{"name":" ai69 ",  "size":  7 },
 {}]
 },
 {
-"name": "segment_juncs",
+"name": "fastpca",
 "children": [
-{"name":" ccb15 ",  "size":  5 },
+{"name":" kjg15 ",  "size":  6 },
 {}]
 },
 {
 "name": "bowtie2-align",
 "children": [
-{"name":" mp298 ",  "size":  5 },
+{"name":" hw176 ",  "size":  4 },
+{"name":" mp298 ",  "size":  1 },
 {}]
 },
 {}]
