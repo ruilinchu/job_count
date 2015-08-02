@@ -1,23 +1,5 @@
 {
 "name": "flare",
  "children": [
-{
-"name": "MATLAB",
-"children": [
-{"name":" rc200 ",  "size":  2612 },
-{}]
-},
-{
-"name": "a.out",
-"children": [
-{"name":" rc200 ",  "size":  632 },
-{}]
-},
-{
-"name": "cat",
-"children": [
-{"name":" cwb4 ",  "size":  36 },
-{}]
-},
 {}]
 }
