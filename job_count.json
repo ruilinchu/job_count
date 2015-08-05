@@ -2,77 +2,137 @@
 "name": "flare",
  "children": [
 {
-"name": "MATLAB",
-"children": [
-{"name":" car54 ",  "size":  74 },
-{"name":" ff49 ",  "size":  422 },
-{"name":" hi41 ",  "size":  9 },
-{"name":" jlw51 ",  "size":  6 },
-{"name":" jwo5 ",  "size":  389 },
-{"name":" kih1 ",  "size":  96 },
-{"name":" sa276 ",  "size":  78 },
-{}]
-},
-{
 "name": "java",
 "children": [
 {"name":" as459 ",  "size":  2 },
-{"name":" as467 ",  "size":  43 },
-{"name":" jw323 ",  "size":  6 },
-{"name":" mk446 ",  "size":  27 },
-{"name":" mwl10 ",  "size":  115 },
-{"name":" pl88 ",  "size":  10 },
-{"name":" sg66 ",  "size":  581 },
-{"name":" sl279 ",  "size":  112 },
-{"name":" zjw2 ",  "size":  118 },
-{}]
-},
-{
-"name": "bowtie-align-s",
-"children": [
-{"name":" jj140 ",  "size":  132 },
-{"name":" sg348 ",  "size":  150 },
-{}]
-},
-{
-"name": "samtools",
-"children": [
 {"name":" ep129 ",  "size":  1 },
-{"name":" jj140 ",  "size":  122 },
-{"name":" mk446 ",  "size":  1 },
-{"name":" sg348 ",  "size":  112 },
-{"name":" sl279 ",  "size":  1 },
+{"name":" hs240 ",  "size":  8 },
+{"name":" jw323 ",  "size":  4 },
+{"name":" mk446 ",  "size":  51 },
+{"name":" mwl10 ",  "size":  144 },
+{"name":" ns250 ",  "size":  1 },
+{"name":" pl88 ",  "size":  1 },
+{"name":" sg66 ",  "size":  555 },
+{"name":" sl279 ",  "size":  93 },
+{"name":" zjw2 ",  "size":  140 },
 {}]
 },
 {
-"name": "relion_refine_m",
+"name": "MATLAB",
 "children": [
-{"name":" bl81 ",  "size":  160 },
+{"name":" car54 ",  "size":  9 },
+{"name":" cs281 ",  "size":  4 },
+{"name":" ff49 ",  "size":  266 },
+{"name":" gi16 ",  "size":  1 },
+{"name":" hi41 ",  "size":  9 },
+{"name":" jlw51 ",  "size":  5 },
+{"name":" jwo5 ",  "size":  122 },
+{"name":" kih1 ",  "size":  83 },
+{"name":" ljo8 ",  "size":  1 },
+{"name":" sa276 ",  "size":  69 },
+{}]
+},
+{
+"name": "hhalign",
+"children": [
+{"name":" xx40 ",  "size":  331 },
 {}]
 },
 {
 "name": "gastric_cohort",
 "children": [
-{"name":" jmy3 ",  "size":  131 },
+{"name":" jmy3 ",  "size":  308 },
+{}]
+},
+{
+"name": "awk",
+"children": [
+{"name":" ag284 ",  "size":  218 },
+{"name":" rd140 ",  "size":  2 },
+{}]
+},
+{
+"name": "codeml",
+"children": [
+{"name":" xz133 ",  "size":  198 },
+{}]
+},
+{
+"name": "relion_refine_m",
+"children": [
+{"name":" bl81 ",  "size":  161 },
+{}]
+},
+{
+"name": "gcta64",
+"children": [
+{"name":" mc389 ",  "size":  157 },
 {}]
 },
 {
 "name": "msmc",
 "children": [
-{"name":" im60 ",  "size":  126 },
+{"name":" im60 ",  "size":  112 },
 {}]
 },
 {
 "name": "bwa",
 "children": [
-{"name":" el114 ",  "size":  33 },
-{"name":" ep129 ",  "size":  43 },
+{"name":" el114 ",  "size":  26 },
+{"name":" ep129 ",  "size":  44 },
+{"name":" sl279 ",  "size":  28 },
+{}]
+},
+{
+"name": "coalescent",
+"children": [
+{"name":" ag284 ",  "size":  80 },
+{}]
+},
+{
+"name": "R",
+"children": [
+{"name":" dma12 ",  "size":  1 },
+{"name":" ep129 ",  "size":  1 },
+{"name":" gwm3 ",  "size":  2 },
+{"name":" pj53 ",  "size":  7 },
+{"name":" sj187 ",  "size":  44 },
+{"name":" yez1 ",  "size":  18 },
+{}]
+},
+{
+"name": "python",
+"children": [
+{"name":" ars52 ",  "size":  2 },
+{"name":" hb88 ",  "size":  67 },
+{"name":" nrd10 ",  "size":  1 },
+{"name":" xl168 ",  "size":  3 },
+{}]
+},
+{
+"name": "samtools",
+"children": [
+{"name":" jj140 ",  "size":  18 },
+{"name":" sg348 ",  "size":  12 },
+{"name":" sl279 ",  "size":  22 },
+{}]
+},
+{
+"name": "plink",
+"children": [
+{"name":" ag284 ",  "size":  40 },
+{}]
+},
+{
+"name": "blastall",
+"children": [
+{"name":" hs240 ",  "size":  27 },
 {}]
 },
 {
 "name": "bsmap",
 "children": [
-{"name":" has15 ",  "size":  32 },
+{"name":" has15 ",  "size":  24 },
 {}]
 },
 {
@@ -82,21 +142,29 @@
 {}]
 },
 {
-"name": "uchime",
+"name": "bowtie-align-s",
 "children": [
-{"name":" pc43 ",  "size":  7 },
+{"name":" jj140 ",  "size":  15 },
+{"name":" sg348 ",  "size":  3 },
 {}]
 },
 {
-"name": "seqtk",
+"name": "hom_to_ped",
 "children": [
-{"name":" prs6 ",  "size":  7 },
+{"name":" ag284 ",  "size":  11 },
 {}]
 },
 {
-"name": "tophat_reports",
+"name": "mothur",
 "children": [
-{"name":" ccb15 ",  "size":  6 },
+{"name":" pc43 ",  "size":  8 },
+{}]
+},
+{
+"name": "cut",
+"children": [
+{"name":" ag284 ",  "size":  2 },
+{"name":" rd140 ",  "size":  5 },
 {}]
 },
 {
