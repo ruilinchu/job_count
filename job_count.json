@@ -4,139 +4,99 @@
 {
 "name": "MATLAB",
 "children": [
-{"name":" car54 ",  "size":  145 },
-{"name":" ff49 ",  "size":  430 },
-{"name":" gi16 ",  "size":  1 },
+{"name":" car54 ",  "size":  74 },
+{"name":" ff49 ",  "size":  422 },
 {"name":" hi41 ",  "size":  9 },
-{"name":" jlw51 ",  "size":  7 },
-{"name":" jmh12 ",  "size":  9 },
-{"name":" jwo5 ",  "size":  95 },
-{"name":" kih1 ",  "size":  79 },
-{"name":" nz22 ",  "size":  140 },
-{"name":" sa276 ",  "size":  66 },
-{"name":" yl194 ",  "size":  1 },
+{"name":" jlw51 ",  "size":  6 },
+{"name":" jwo5 ",  "size":  389 },
+{"name":" kih1 ",  "size":  96 },
+{"name":" sa276 ",  "size":  78 },
 {}]
 },
 {
 "name": "java",
 "children": [
 {"name":" as459 ",  "size":  2 },
-{"name":" as467 ",  "size":  24 },
-{"name":" hs240 ",  "size":  16 },
-{"name":" jgh14 ",  "size":  120 },
-{"name":" jw323 ",  "size":  3 },
-{"name":" mk446 ",  "size":  2 },
-{"name":" mwl10 ",  "size":  19 },
-{"name":" pl88 ",  "size":  1 },
-{"name":" sg66 ",  "size":  459 },
-{"name":" sl279 ",  "size":  182 },
-{"name":" zjw2 ",  "size":  16 },
-{}]
-},
-{
-"name": "codeml",
-"children": [
-{"name":" xz133 ",  "size":  322 },
+{"name":" as467 ",  "size":  43 },
+{"name":" jw323 ",  "size":  6 },
+{"name":" mk446 ",  "size":  27 },
+{"name":" mwl10 ",  "size":  115 },
+{"name":" pl88 ",  "size":  10 },
+{"name":" sg66 ",  "size":  581 },
+{"name":" sl279 ",  "size":  112 },
+{"name":" zjw2 ",  "size":  118 },
 {}]
 },
 {
 "name": "bowtie-align-s",
 "children": [
-{"name":" jj140 ",  "size":  113 },
-{"name":" sg348 ",  "size":  139 },
+{"name":" jj140 ",  "size":  132 },
+{"name":" sg348 ",  "size":  150 },
 {}]
 },
 {
 "name": "samtools",
 "children": [
-{"name":" el114 ",  "size":  1 },
-{"name":" jj140 ",  "size":  98 },
-{"name":" mk446 ",  "size":  2 },
-{"name":" sg348 ",  "size":  122 },
+{"name":" ep129 ",  "size":  1 },
+{"name":" jj140 ",  "size":  122 },
+{"name":" mk446 ",  "size":  1 },
+{"name":" sg348 ",  "size":  112 },
 {"name":" sl279 ",  "size":  1 },
-{}]
-},
-{
-"name": "relion_autopick",
-"children": [
-{"name":" ak108 ",  "size":  189 },
-{}]
-},
-{
-"name": "gcta64",
-"children": [
-{"name":" mc389 ",  "size":  179 },
-{}]
-},
-{
-"name": "msmc",
-"children": [
-{"name":" im60 ",  "size":  168 },
 {}]
 },
 {
 "name": "relion_refine_m",
 "children": [
-{"name":" bl81 ",  "size":  161 },
-{}]
-},
-{
-"name": "novoalign",
-"children": [
-{"name":" jgh14 ",  "size":  12 },
-{"name":" kh149 ",  "size":  102 },
-{}]
-},
-{
-"name": "bwa",
-"children": [
-{"name":" el114 ",  "size":  44 },
-{"name":" ep129 ",  "size":  67 },
-{}]
-},
-{
-"name": "shapeit",
-"children": [
-{"name":" mrp1 ",  "size":  26 },
-{"name":" pl88 ",  "size":  64 },
-{}]
-},
-{
-"name": "blastall",
-"children": [
-{"name":" hs240 ",  "size":  43 },
-{}]
-},
-{
-"name": "R",
-"children": [
-{"name":" dma12 ",  "size":  4 },
-{"name":" im60 ",  "size":  26 },
-{"name":" xn5 ",  "size":  1 },
-{}]
-},
-{
-"name": "hhalign",
-"children": [
-{"name":" xx40 ",  "size":  24 },
-{}]
-},
-{
-"name": "seqtk",
-"children": [
-{"name":" prs6 ",  "size":  21 },
+{"name":" bl81 ",  "size":  160 },
 {}]
 },
 {
 "name": "gastric_cohort",
 "children": [
-{"name":" jmy3 ",  "size":  13 },
+{"name":" jmy3 ",  "size":  131 },
 {}]
 },
 {
-"name": "jackhmmer",
+"name": "msmc",
 "children": [
-{"name":" kaw32 ",  "size":  6 },
+{"name":" im60 ",  "size":  126 },
+{}]
+},
+{
+"name": "bwa",
+"children": [
+{"name":" el114 ",  "size":  33 },
+{"name":" ep129 ",  "size":  43 },
+{}]
+},
+{
+"name": "bsmap",
+"children": [
+{"name":" has15 ",  "size":  32 },
+{}]
+},
+{
+"name": "shapeit",
+"children": [
+{"name":" pl88 ",  "size":  20 },
+{}]
+},
+{
+"name": "uchime",
+"children": [
+{"name":" pc43 ",  "size":  7 },
+{}]
+},
+{
+"name": "seqtk",
+"children": [
+{"name":" prs6 ",  "size":  7 },
+{}]
+},
+{
+"name": "tophat_reports",
+"children": [
+{"name":" ccb15 ",  "size":  6 },
 {}]
 },
 {
