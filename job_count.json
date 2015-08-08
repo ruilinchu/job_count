@@ -1,11 +1,5 @@
 {
 "name": "flare",
  "children": [
-{
-"name": "java",
-"children": [
-{"name":" dpr14 ",  "size":  8 },
-{}]
-},
 {}]
 }
