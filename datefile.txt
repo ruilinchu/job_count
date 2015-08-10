@@ -1,4 +1,4 @@
 Running job counts on orchestra
 By Jimi Chu, HMS RC
-Sun Aug  9 15:01:24 EDT 2015
-cluster utilization: 4100/4604 89.05%
+Sun Aug  9 23:01:22 EDT 2015
+cluster utilization: 4277/4604 92.9%
